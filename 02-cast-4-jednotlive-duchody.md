@@ -1661,6 +1661,11 @@ Speciální pravidlo: souběh dílčího + jiného (nedílčího) českého důc
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 4066/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A338CBB77FC659AC1258240002B91E0?openDocument) — 28. 11. 2017, kat. A
+  > „Nárok na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti zaniká invalidnímu důchodci dnem, kdy mu ze zákona vznikl nárok na výplatu starobního důchodu"
+
 #### Automatická přeměna (odst. 1)
 
 § 61a zakotvuje **automatickou přeměnu invalidního důchodu na starobní důchod** dnem, kdy poživatel invalidního důchodu dosáhne **věku 65 let** (nebo důchodového věku, je-li vyšší). Tento mechanismus:
@@ -2393,6 +2398,4 @@ Toto pravidlo:
 > **Závěrečné shrnutí kapitoly.** Část čtvrtá zákona o důchodovém pojištění obsahuje **hmotněprávní architekturu** celého důchodového systému. Reforma 2024 (zákon č. 270/2023 Sb.) podstatně modifikovala klíčové parametry: zvýšila důchodový věk pro ročníky narozené po 1988 na 67 let; postupně snížila procentní sazbu z 1,5 % na 1,45 %; zpřísnila předčasné důchody; zmenšila valorizační koeficient z 1/2 na 1/3 růstu reálných mezd; a — jako mimořádný (lex specialis) prvek — zavedla retributivní snížení důchodů představitelům komunistického režimu. Současně zákon obsahuje rozsáhlou **ochrannou architekturu**: minimální procentní výměry (§ 33 odst. 2, § 41 odst. 3), dolní hranice valorizace (§ 67 odst. 7 — 2,7 %), věkové bonusy (§ 67ab), automatické přeměny invalidního na starobní (§ 61a) a komplexní pravidla souběhů (§§ 58–61). Kombinací těchto instrumentů vytváří **vyvážený systém** mezi pojistnou ekvivalencí a sociální solidaritou — s tendencí k posílení sociálního prvku v oblasti minimálních výměr a věkových bonusů, a oslabení ekvivalence v oblasti redukčních koeficientů (§ 17 a násl.) a snižujících se procentních sazeb.
 
 ---
-
-
 
