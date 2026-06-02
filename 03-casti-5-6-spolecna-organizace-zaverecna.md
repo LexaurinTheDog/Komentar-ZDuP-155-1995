@@ -1299,19 +1299,33 @@ Specifické zmocnění MŠMT v dohodě s MPSV reflektuje § 21 odst. 1 písm. c)
 > **§ 109**
 >
 > *Zrušují se:*
-> *- 1. § 1 odst. 3 a 4, § 2 odst. 2 až 4, § 6, § 7 písm. a), § 8 až 52, § 54 až 69, § 73 odst. 4, v § 94 odst. 1 slova „důchodového zabezpečení a", § 98, § 100, § 102 odst. 1 část věty první za středníkem, v § 104 odst. 2 slova „důchodového zabezpečení", § 110, § 122 odst. 1 až 5, § 129 až 141, v § 145 odst. 6 slova „§ 122 odst. 1 až 3 a 5 a", § 146 až 175, v § 177a odst. 1 slova „§ 6 odst. 2 a 3, § 8 odst. 1, § 9 odst. 2, § 12 odst. 2, 3 a 7, § 19 odst. 3, § 23 odst. 3, § 37 odst. 3, § 41 odst. 2, § 44 odst. 2, § 48 odst. 2, § 54 odst. 9, § 59 odst. 3", slova „§ 100 odst. 2" a slova „§ 120 odst. 7, § 131 odst. 3 a § 142 odst. 5" a v § 177a odst. 2 slova „kteří občané mají v důchodovém zabezpečení práva a povinnosti jako pracovníci v pracovním poměru, bližší podmínky jejich účasti na tomto zabezpečení, které další doby se považují za doby zaměstnání a náhradní doby, co se považuje za dobu zaměstnání v cizině, které osoby se považují za blízké osoby, co se považuje za dlouhodobě nepříznivý zdravotní stav, za zvlášť ulehčené pracovní podmínky a mimořádné podmínky pro nárok na invalidní a částečný invalidní důchod, podstatný pokles výdělku a bližší úpravu jednotlivých podmínek invalidity a částečné invalidity, úpravu srovnatelného výdělku o přepočítací koeficient", slova „kdy je občan částečně, převážně nebo úplně bezmocný" a slova „a podmínky poskytování úrazových důchodů, zaopatřovacích požitků vojenských a válečných poškozenců, přídavků za zranění a příspěvků přiznaných podle § 6 zákona č. 16/1947 Sb., které byly přiznány podle předpisů platných před 1. lednem 1957" zákona č. 100/1988 Sb., o sociálním zabezpečení, ve znění* [...série novelizací...] *,*
+>
+> *- 1. § 1 odst. 3 a 4, § 2 odst. 2 až 4, § 6, § 7 písm. a), § 8 až 52, § 54 až 69, § 73 odst. 4, v § 94 odst. 1 slova „důchodového zabezpečení a“, § 98, § 100, § 102 odst. 1 část věty první za středníkem, v § 104 odst. 2 slova „důchodového zabezpečení“, § 110, § 122 odst. 1 až 5, § 129 až 141, v § 145 odst. 6 slova „§ 122 odst. 1 až 3 a 5 a“, § 146 až 175, v § 177a odst. 1 slova „§ 6 odst. 2 a 3, § 8 odst. 1, § 9 odst. 2, § 12 odst. 2, 3 a 7, § 19 odst. 3, § 23 odst. 3, § 37 odst. 3, § 41 odst. 2, § 44 odst. 2, § 48 odst. 2, § 54 odst. 9, § 59 odst. 3“, slova „§ 100 odst. 2“ a slova „§ 120 odst. 7, § 131 odst. 3 a § 142 odst. 5“ a v § 177a odst. 2 slova „kteří občané mají v důchodovém zabezpečení práva a povinnosti jako pracovníci v pracovním poměru, bližší podmínky jejich účasti na tomto zabezpečení, které další doby se považují za doby zaměstnání a náhradní doby, co se považuje za dobu zaměstnání v cizině, které osoby se považují za blízké osoby, co se považuje za dlouhodobě nepříznivý zdravotní stav, za zvlášť ulehčené pracovní podmínky a mimořádné podmínky pro nárok na invalidní a částečný invalidní důchod, podstatný pokles výdělku a bližší úpravu jednotlivých podmínek invalidity a částečné invalidity, úpravu srovnatelného výdělku o přepočítací koeficient“, slova „kdy je občan částečně, převážně nebo úplně bezmocný“ a slova „a podmínky poskytování úrazových důchodů, zaopatřovacích požitků vojenských a válečných poškozenců, přídavků za zranění a příspěvků přiznaných podle § 6 zákona č. 16/1947 Sb., které byly přiznány podle předpisů platných před 1. lednem 1957“ zákona č. 100/1988 Sb., o sociálním zabezpečení, ve znění zákona č. 110/1990 Sb., zákona č. 180/1990 Sb., zákona č. 1/1991 Sb., zákona č. 46/1991 Sb., zákona č. 306/1991 Sb., zákona České národní rady č. 482/1991 Sb., zákona č. 578/1991 Sb., zákona České národní rady č. 582/1991 Sb., zákona č. 235/1992 Sb., zákona České národní rady č. 589/1992 Sb., zákona České národní rady č. 37/1993 Sb., zákona č. 84/1993 Sb., zákona č. 160/1993 Sb., zákona č. 266/1993 Sb., zákona č. 307/1993 Sb., zákona č. 182/1994 Sb., zákona č. 241/1994 Sb. a zákona č. 118/1995 Sb.,*
+>
 > *- 2. § 24 odst. 3 zákona č. 2/1991 Sb., o kolektivním vyjednávání, ve znění zákona č. 118/1995 Sb.,*
+>
 > *- 3. zákon č. 46/1991 Sb., o zvyšování důchodů, ve znění zákona České národní rady č. 37/1993 Sb.,*
+>
 > *- 4. zákon č. 246/1991 Sb., o druhém zvýšení důchodů v roce 1991,*
+>
 > *- 5. zákon č. 116/1992 Sb., o zvýšení důchodů v roce 1992,*
+>
 > *- 6. zákon České národní rady č. 547/1992 Sb., o zvýšení důchodů v roce 1993,*
+>
 > *- 7. zákon č. 255/1993 Sb., o druhém zvýšení důchodů v roce 1993 a o zvýšení důchodů přiznávaných v roce 1994, ve znění zákona č. 183/1994 Sb.,*
+>
 > *- 8. čl. V zákona č. 235/1992 Sb., o zrušení pracovních kategorií a o některých dalších změnách v sociálním zabezpečení,*
+>
 > *- 9. zákon č. 39/1994 Sb., o předčasném poskytování starobního důchodu a o změně zákonů na úseku zaměstnanosti,*
+>
 > *- 10. zákon č. 41/1994 Sb., o zvýšení důchodů, které jsou jediným zdrojem příjmu, a sociálních důchodů,*
+>
 > *- 11. zákon č. 183/1994 Sb., o zvýšení vyplácených důchodů a důchodů přiznávaných v roce 1994 a v roce 1995, ve znění zákona č. 76/1995 Sb., s výjimkou § 14,*
+>
 > *- 12. zákon č. 76/1995 Sb., o zvýšení vyplácených důchodů a důchodů přiznávaných v roce 1995,*
+>
 > *- 13. nařízení vlády České a Slovenské Federativní Republiky č. 231/1990 Sb., o zvýšení vyplácených důchodů a hranic nízkých důchodů, které jsou jediným zdrojem příjmu,*
+>
 > *- 14. nařízení vlády České a Slovenské Federativní Republiky č. 257/1990 Sb., o přechodném snížení výše pojistného na sociální zabezpečení pro osoby vykonávající uměleckou činnost.*
 
 **Výklad:**

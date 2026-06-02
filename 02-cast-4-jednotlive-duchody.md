@@ -37,13 +37,25 @@ Konstrukce „věk + doba pojištění" je zachována i v evropském srovnání 
 >
 > *(1) Pojištěnec má nárok na starobní důchod, jestliže získal dobu pojištění nejméně*
 >
-> *- a) 25 let a dosáhl aspoň věku potřebného pro vznik nároku na starobní důchod (dále jen „důchodový věk") před rokem 2010,*
+> *- a) 25 let a dosáhl aspoň věku potřebného pro vznik nároku na starobní důchod (dále jen „důchodový věk“) před rokem 2010,*
 >
 > *- b) 26 let a dosáhl důchodového věku v roce 2010,*
 >
 > *- c) 27 let a dosáhl důchodového věku v roce 2011,*
 >
-> [pokračování gradientně do písm. k)]
+> *- d) 28 let a dosáhl důchodového věku v roce 2012,*
+>
+> *- e) 29 let a dosáhl důchodového věku v roce 2013,*
+>
+> *- f) 30 let a dosáhl důchodového věku v roce 2014,*
+>
+> *- g) 31 let a dosáhl důchodového věku v roce 2015,*
+>
+> *- h) 32 let a dosáhl důchodového věku v roce 2016,*
+>
+> *- i) 33 let a dosáhl důchodového věku v roce 2017,*
+>
+> *- j) 34 let a dosáhl důchodového věku v roce 2018,*
 >
 > *- k) 35 let a dosáhl důchodového věku po roce 2018.*
 >
@@ -51,7 +63,15 @@ Konstrukce „věk + doba pojištění" je zachována i v evropském srovnání 
 >
 > *- a) 15 let a dosáhl před rokem 2010 věku aspoň 65 let,*
 >
-> [postupná gradace do písm. g)]
+> *- b) 16 let a dosáhl v roce 2010 věku aspoň o 5 let vyššího, než je důchodový věk stanovený podle § 32 pro muže stejného data narození,*
+>
+> *- c) 17 let a dosáhl v roce 2011 věku aspoň o 5 let vyššího, než je důchodový věk stanovený podle § 32 pro muže stejného data narození,*
+>
+> *- d) 18 let a dosáhl v roce 2012 věku aspoň o 5 let vyššího, než je důchodový věk stanovený podle § 32 pro muže stejného data narození,*
+>
+> *- e) 19 let a dosáhl v roce 2013 věku aspoň o 5 let vyššího, než je důchodový věk stanovený podle § 32 pro muže stejného data narození,*
+>
+> *- f) 20 let a dosáhl v období 2014 až 2024 věku aspoň o 5 let vyššího, než je důchodový věk stanovený podle § 32 pro muže stejného data narození,*
 >
 > *- g) 20 let a dosáhl po roce 2024 věku aspoň o 2 roky vyššího, než je důchodový věk stanovený podle § 32 pro muže stejného data narození.*
 >
@@ -63,7 +83,7 @@ Konstrukce „věk + doba pojištění" je zachována i v evropském srovnání 
 >
 > *(4) Pojištěnec, který nesplňuje podmínky stanovené v odstavcích 1, 2 nebo 3, má nárok na starobní důchod též, jestliže dosáhl věku 65 let nebo důchodového věku, je-li důchodový věk vyšší než 65 let, a splnil podmínky nároku na invalidní důchod stanovené v § 38 písm. a) nebo b).*
 >
-> *(5) Do doby pojištění potřebné pro vznik nároku na starobní důchod podle odstavce 1 písm. b) až k) a odstavce 2 písm. b) až g) se náhradní doby pojištění (...) započítávají pouze v rozsahu 80 %; (...)*
+> *(5) Do doby pojištění potřebné pro vznik nároku na starobní důchod podle odstavce 1 písm. b) až k) a odstavce 2 písm. b) až g) se náhradní doby pojištění, s výjimkou náhradních dob pojištění za dobu účasti na pojištění osob uvedených v § 5 odst. 2 písm. c), d), h) a j), § 102 odst. 5 a 6 a v § 105 odst. 2 a obdobných dob podle předpisů platných před 1. lednem 1996, započítávají pouze v rozsahu 80 %; počet dnů náhradních dob pojištění stanovený podle části věty před středníkem se přitom zaokrouhluje na celé dny směrem nahoru.*
 
 **Výklad:**
 
@@ -170,20 +190,26 @@ Existuje však jedna důležitá kompenzace: § 36 odst. 3 umožňuje **přepoč
 > *(1) Důchodový věk činí*
 >
 > *- a) u mužů 60 let,*
+>
 > *- b) u žen*
->   *- 1. 53 let, pokud vychovaly alespoň pět dětí,*
->   *- 2. 54 let, pokud vychovaly tři nebo čtyři děti,*
->   *- 3. 55 let, pokud vychovaly dvě děti,*
->   *- 4. 56 let, pokud vychovaly jedno dítě, nebo*
->   *- 5. 57 let,*
+>
+> *  - 1. 53 let, pokud vychovaly alespoň pět dětí,*
+>
+> *  - 2. 54 let, pokud vychovaly tři nebo čtyři děti,*
+>
+> *  - 3. 55 let, pokud vychovaly dvě děti,*
+>
+> *  - 4. 56 let, pokud vychovaly jedno dítě, nebo*
+>
+> *  - 5. 57 let,*
 >
 > *jde-li o pojištěnce narozené před rokem 1936.*
 >
-> *(2) U pojištěnců narozených v období let 1936 až 1973 se důchodový věk stanoví podle přílohy č. 1 k tomuto zákonu. (...)*
+> *(2) U pojištěnců narozených v období let 1936 až 1973 se důchodový věk stanoví podle přílohy č. 1 k tomuto zákonu. Stanoví-li se důchodový věk s přičtením kalendářních měsíců, považuje se za důchodový věk věk dosažený v posledním přičteném kalendářním měsíci v den, který se číslem shoduje se dnem narození pojištěnce; neobsahuje-li takto určený měsíc takový den, považuje se za důchodový věk ten věk, který je dosažen v posledním dni posledního přičteného kalendářního měsíce.*
 >
-> *(3) U pojištěnců narozených v období let 1974 až 1988 se důchodový věk stanoví tak, že se k věku 65 let a 8 měsíců přičte takový počet kalendářních měsíců, který se stanoví jako rozdíl v počtu let mezi rokem narození pojištěnce a rokem 1973; (...) U pojištěnců narozených po roce 1988 důchodový věk činí 67 let.*
+> *(3) U pojištěnců narozených v období let 1974 až 1988 se důchodový věk stanoví tak, že se k věku 65 let a 8 měsíců přičte takový počet kalendářních měsíců, který se stanoví jako rozdíl v počtu let mezi rokem narození pojištěnce a rokem 1973; ustanovení odstavce 2 věty druhé platí zde obdobně. U pojištěnců narozených po roce 1988 důchodový věk činí 67 let.*
 >
-> *(4) Podmínka výchovy dítěte pro nárok ženy na starobní důchod je splněna, jestliže žena osobně pečuje nebo pečovala o dítě ve věku do dosažení zletilosti alespoň po dobu deseti roků. (...)*
+> *(4) Podmínka výchovy dítěte pro nárok ženy na starobní důchod je splněna, jestliže žena osobně pečuje nebo pečovala o dítě ve věku do dosažení zletilosti alespoň po dobu deseti roků. Pokud se však žena ujala výchovy dítěte po dosažení osmého roku jeho věku, je podmínka výchovy dítěte splněna, jestliže žena osobně pečuje nebo pečovala o dítě ve věku do dosažení zletilosti aspoň po dobu pěti roků; to však neplatí, pokud žena před dosažením zletilosti dítěte přestala o dítě pečovat. Pokud dítě zemřelo po dosažení 5 let věku, je podmínka výchovy dítěte splněna, jestliže žena osobně pečovala o dítě od jeho narození do jeho úmrtí; ustanovení vět první a druhé tím nejsou dotčena.*
 
 **Výklad:**
 
@@ -290,18 +316,42 @@ Funkčně jde o **stop-loss klauzuli**: žádný řádně přiznaný starobní d
 > *(1) Výše procentní výměry starobního důchodu, na který vznikl nárok podle § 29 odst. 1 až 3, činí za každý celý rok doby pojištění získané do vzniku nároku na tento důchod,*
 >
 > *- a) spadá-li rok přiznání důchodu do období před rokem 2026, 1,5 % výpočtového základu měsíčně,*
+>
 > *- b) je-li rokem přiznání důchodu rok 2026, 1,495 % výpočtového základu měsíčně,*
+>
 > *- c) je-li rokem přiznání důchodu rok 2027, 1,490 % výpočtového základu měsíčně,*
-> *(...)*
+>
+> *- d) je-li rokem přiznání důchodu rok 2028, 1,485 % výpočtového základu měsíčně,*
+>
+> *- e) je-li rokem přiznání důchodu rok 2029, 1,480 % výpočtového základu měsíčně,*
+>
+> *- f) je-li rokem přiznání důchodu rok 2030, 1,475 % výpočtového základu měsíčně,*
+>
+> *- g) je-li rokem přiznání důchodu rok 2031, 1,470 % výpočtového základu měsíčně,*
+>
+> *- h) je-li rokem přiznání důchodu rok 2032, 1,465 % výpočtového základu měsíčně,*
+>
+> *- i) je-li rokem přiznání důchodu rok 2033, 1,460 % výpočtového základu měsíčně,*
+>
+> *- j) je-li rokem přiznání důchodu rok 2034, 1,455 % výpočtového základu měsíčně,*
+>
 > *- k) spadá-li rok přiznání důchodu do období po roce 2034, 1,450 % výpočtového základu měsíčně.*
 >
-> *(2) Do doby pojištění se pro účely odstavce 1 započítávají náhradní doby pojištění pouze v rozsahu 80 %, (...)*
+> *(2) Do doby pojištění se pro účely odstavce 1 započítávají náhradní doby pojištění pouze v rozsahu 80 %, s výjimkou náhradních dob pojištění za dobu účasti na pojištění osob uvedených v § 5 odst. 2 písm. c), d), h) a j), § 102 odst. 5 a 6 a v § 105 odst. 2 a obdobných dob podle předpisů platných před 1. lednem 1996; počet dnů náhradních dob pojištění stanovený podle části věty před středníkem se přitom zaokrouhluje na celé dny směrem nahoru.*
 >
-> *(3) Výše procentní výměry starobního důchodu stanovená podle odstavce 1 se zvyšuje pojištěnci, který splnil podmínky nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a) a po vzniku nároku na tento důchod vykonával výdělečnou činnost a nepobíral přitom starobní důchod ani invalidní důchod pro invaliditu třetího stupně, za každých 90 kalendářních dnů této výdělečné činnosti o 1,5 % výpočtového základu. (...)*
+> *(3) Výše procentní výměry starobního důchodu stanovená podle odstavce 1 se zvyšuje pojištěnci, který splnil podmínky nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a) a po vzniku nároku na tento důchod vykonával výdělečnou činnost a nepobíral přitom starobní důchod ani invalidní důchod pro invaliditu třetího stupně, za každých 90 kalendářních dnů této výdělečné činnosti o 1,5 % výpočtového základu. Doba kratší než 90 kalendářních dnů, která nebyla zhodnocena podle předchozí věty jako doba pojištění, se přičte k době pojištění získané do vzniku nároku na starobní důchod, pokud se tak získá celý rok doby pojištění, a to v rozsahu potřebném pro toto přičtení; na žádost pojištěnce se procentní výměra starobního důchodu nezvýší podle věty první a doba výdělečné činnosti uvedená ve větě první se přičte k době pojištění získané do vzniku nároku na tento důchod, a to v rozsahu uvedeném v žádosti pojištěnce. Za výkon výdělečné činnosti se pro účely zvýšení procentní výměry starobního důchodu nepovažují doby pracovního volna bez náhrady příjmu a neomluvené nepřítomnosti v práci a doby uvedené v § 16 odst. 4 větě třetí písm. a).*
 >
-> *(4) Výše procentní výměry starobního důchodu stanovená podle odstavce 1 se zvyšuje pojištěnci, který splnil podmínky nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a) a po vzniku nároku na tento důchod vykonával výdělečnou činnost a pobíral přitom starobní důchod ve výši poloviny podle § 37 odst. 1, za každých 180 kalendářních dnů této výdělečné činnosti o 1,5 % výpočtového základu. (...)*
+> *(4) Výše procentní výměry starobního důchodu stanovená podle odstavce 1 se zvyšuje pojištěnci, který splnil podmínky nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a) a po vzniku nároku na tento důchod vykonával výdělečnou činnost a pobíral přitom starobní důchod ve výši poloviny podle § 37 odst. 1, za každých 180 kalendářních dnů této výdělečné činnosti o 1,5 % výpočtového základu. Ustanovení odstavce 3 věty třetí platí zde obdobně.*
 >
-> *(5–9) [bonifikace a přepočty]*
+> *(5) Výše procentní výměry starobního důchodu stanovená podle odstavce 1 se zvyšuje pojištěnci, který splnil podmínky nároku na starobní důchod podle § 29 odst. 2 nebo § 29 odst. 3 písm. b) a po vzniku nároku na tento důchod vykonával výdělečnou činnost a nepobíral přitom starobní důchod ani invalidní důchod pro invaliditu třetího stupně, za každý celý rok doby pojištění získané do dosažení doby pojištění potřebné pro vznik nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a) o 1,5 % výpočtového základu; po dosažení doby pojištění potřebné pro vznik nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a) se výše procentní výměry starobního důchodu zvyšuje podle odstavce 3.*
+>
+> *(6) Pokud pojištěnec, který splnil podmínky nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a), po vzniku nároku na tento důchod vykonával výdělečnou činnost a pobíral přitom invalidní důchod pro invaliditu třetího stupně nebo plný invalidní důchod, přičte se doba této výdělečné činnosti k době pojištění získané do vzniku nároku na starobní důchod. Nezhodnocený zbytek doby výdělečné činnosti vykonávané po roce 2009 po vzniku nároku na starobní důchod bez pobírání starobního důchodu ani invalidního důchodu, který nebyl přičten podle odstavce 3 věty druhé, se přičte v potřebném rozsahu k době výdělečné činnosti uvedené v odstavci 3, pokud se tak získá ucelený úsek výdělečné činnosti potřebný podle odstavce 3 pro zvýšení procentní výměry starobního důchodu.*
+>
+> *(7) Pokud pojištěnec se sníženým důchodovým věkem splnil podmínky nároku na starobní důchod podle § 29 odst. 1 nebo § 29 odst. 3 písm. a) a v období od vzniku nároku na starobní důchod do dosažení důchodového věku stanoveného podle § 32 vykonával výdělečnou činnost a nepobíral přitom starobní důchod, procentní výměra starobního důchodu se za dobu této výdělečné činnosti podle odstavce 3 nezvyšuje a doba této výdělečné činnosti se přičte k době pojištění získané do vzniku nároku na starobní důchod. Vykonával-li pojištěnec uvedený ve větě první v období uvedeném ve větě první výdělečnou činnost a pobíral přitom starobní důchod ve výši poloviny, zvýšení procentní výměry podle odstavce 3 nenáleží. Pro zvýšení procentní výměry za dobu výdělečné činnosti vykonávané po dosažení důchodového věku stanoveného podle § 32 platí ustanovení odstavců 3, 4 a 6 obdobně. Sníženým důchodovým věkem se rozumí důchodový věk stanovený podle § 37c odst. 1, § 37e, § 74 a § 74a nebo podle nařízení vlády o stanovení důchodového věku a přepočtu starobních důchodů některých horníků, kteří začali vykonávat své zaměstnání před rokem 1993.*
+>
+> *(8) Celým rokem doby pojištění se pro účely tohoto zákona rozumí 365 kalendářních dnů.*
+>
+> *(9) Pokud pojištěnec vykonával po vzniku nároku na starobní důchod výdělečnou činnost a procentní výměra starobního důchodu se zvyšuje podle odstavců 3 až 6, zvyšuje se podle odstavců 3 až 6 procentní výměra před úpravou podle § 33 odst. 2 věty třetí.*
 
 **Výklad:**
 
@@ -371,9 +421,9 @@ Odst. 4 nabízí **kompromisní cestu**: pojištěnec může pobírat **polovinu
 >
 > *(2) Zvýšení za 1 vychované dítě činí od 1. ledna 2023 částku 500 Kč měsíčně.*
 >
-> *(3) Dítě se pro účely zvýšení procentní výměry starobního důchodu podle odstavce 1 (...) považuje za vychované, jsou-li splněny podmínky výchovy dítěte podle § 32 odst. 4; tyto podmínky platí i v případě, že o dítě osobně pečuje nebo pečoval muž. (...)*
+> *(3) Dítě se pro účely zvýšení procentní výměry starobního důchodu podle odstavce 1 (dále jen „zvýšení za vychované dítě“) považuje za vychované, jsou-li splněny podmínky výchovy dítěte podle § 32 odst. 4; tyto podmínky platí i v případě, že o dítě osobně pečuje nebo pečoval muž. Výchovu téhož dítěte nelze pro účely zvýšení za vychované dítě současně započítat více osobám; vychovávalo-li dítě více osob, přihlíží se k výchově dítěte jen u té osoby, která o dítě osobně pečovala v největším rozsahu. Při zvýšení za vychované dítě se přihlíží jen k výchově toho dítěte, které jako vychované pojištěnec uvedl v žádosti o přiznání starobního důchodu; není-li tato podmínka splněna, zvýšení za vychované dítě nenáleží.*
 >
-> *(4) Zvýšení za vychované dítě nenáleží, pokud se pojištěnec vůči dítěti dopustil jako pachatel, spolupachatel nebo účastník úmyslného trestného činu (...).*
+> *(4) Zvýšení za vychované dítě nenáleží, pokud se pojištěnec vůči dítěti dopustil jako pachatel, spolupachatel nebo účastník úmyslného trestného činu proti životu a zdraví, proti svobodě a právům na ochranu osobnosti, proti lidské důstojnosti v sexuální oblasti nebo proti rodině a dětem podle trestního zákoníku nebo obdobných úmyslných trestných činů podle dříve platných právních předpisů.*
 
 **Výklad:**
 
@@ -421,11 +471,11 @@ Klíčové specifikum: do doby pojištění se započítává **dopočtená doba
 
 > **§ 36**
 >
-> *(1) Výše procentní výměry starobního důchodu, na který vznikl nárok podle § 31 pojištěnci, který získal aspoň 45 let doby pojištění, se stanoví podle § 34 odst. 1 s tím, že tato výše se snižuje za každých i započatých 90 kalendářních dnů z doby ode dne, od kterého se přiznává starobní důchod, do dosažení důchodového věku o 0,75 % výpočtového základu; výše procentní výměry po tomto snížení však nesmí být nižší, než je částka stanovená podle § 33 odst. 2 věty třetí. (...)*
+> *(1) Výše procentní výměry starobního důchodu, na který vznikl nárok podle § 31 pojištěnci, který získal aspoň 45 let doby pojištění, se stanoví podle § 34 odst. 1 s tím, že tato výše se snižuje za každých i započatých 90 kalendářních dnů z doby ode dne, od kterého se přiznává starobní důchod, do dosažení důchodového věku o 0,75 % výpočtového základu; výše procentní výměry po tomto snížení však nesmí být nižší, než je částka stanovená podle § 33 odst. 2 věty třetí. Do doby pojištění se pro tyto účely započítávají pouze doby pojištění uvedené v § 11, § 13 s výjimkou doby studia před dosažením věku 18 let, § 102 odst. 2, § 102a odst. 3, § 102b a § 103 a náhradní doby pojištění za dobu účasti na pojištění osob uvedených v § 5 odst. 2 písm. c), d), h) a j), § 102 odst. 5 a 6 a § 102a odst. 1 a obdobné doby podle předpisů platných před 1. lednem 1996.*
 >
-> *(2) Výše procentní výměry starobního důchodu, na který vznikl nárok podle § 31 pojištěnci, který nesplnil podmínku získání doby pojištění podle odstavce 1, se stanoví podle § 34 odst. 1 s tím, že tato výše se snižuje za každých i započatých 90 kalendářních dnů z doby ode dne, od kterého se přiznává starobní důchod, do dosažení důchodového věku o 1,5 % výpočtového základu; (...)*
+> *(2) Výše procentní výměry starobního důchodu, na který vznikl nárok podle § 31 pojištěnci, který nesplnil podmínku získání doby pojištění podle odstavce 1, se stanoví podle § 34 odst. 1 s tím, že tato výše se snižuje za každých i započatých 90 kalendářních dnů z doby ode dne, od kterého se přiznává starobní důchod, do dosažení důchodového věku o 1,5 % výpočtového základu; výše procentní výměry po tomto snížení však nesmí být nižší, než je částka stanovená podle § 33 odst. 2 věty třetí.*
 >
-> *(3) Výše procentní výměry starobního důchodu stanovená podle odstavce 1 nebo 2 se pojištěnci, který po vzniku nároku na tento důchod do dosažení důchodového věku vykonával výdělečnou činnost a nepobíral přitom starobní důchod ani invalidní důchod pro invaliditu třetího stupně, přepočte po skončení této výdělečné činnosti na žádost (...)*
+> *(3) Výše procentní výměry starobního důchodu stanovená podle odstavce 1 nebo 2 se pojištěnci, který po vzniku nároku na tento důchod do dosažení důchodového věku vykonával výdělečnou činnost a nepobíral přitom starobní důchod ani invalidní důchod pro invaliditu třetího stupně, přepočte po skončení této výdělečné činnosti na žádost tak, že se doba této výdělečné činnosti po dni, od kterého byl přiznán starobní důchod, přičte k době pojištění získané do vzniku nároku na tento důchod a současně se o tuto dobu zkrátí doba, za kterou se snižovala výše procentní výměry starobního důchodu podle odstavce 1 nebo 2. Pokud pojištěnec, jehož výše procentní výměry byla stanovena podle odstavce 2, touto výdělečnou činností splnil podmínku získání doby pojištění podle odstavce 1, provede se při tomto přepočtu snížení procentní výměry starobního důchodu podle odstavce 1. Pro zvýšení procentní výměry za dobu výdělečné činnosti vykonávané po dosažení důchodového věku platí ustanovení § 34 odst. 3, 4 a 8 obdobně.*
 
 **Výklad:**
 
@@ -512,7 +562,7 @@ Po dosažení důchodového věku se na předčasný důchod aplikuje **stejný 
 
 > **§ 37a**
 >
-> *Výplata starobního důchodu, na který vznikl nárok pojištěncům se sníženým důchodovým věkem, nenáleží do dosažení důchodového věku stanoveného pro tohoto pojištěnce podle § 32 na ten kalendářní měsíc, v němž pojištěnec odpracoval 1 směnu v zaměstnání v hlubinném hornictví podle § 37b odst. 2 nebo aspoň 1 směnu v rizikovém zaměstnání podle § 37d odst. 5 věty první. (...)*
+> *Výplata starobního důchodu, na který vznikl nárok pojištěncům se sníženým důchodovým věkem, nenáleží do dosažení důchodového věku stanoveného pro tohoto pojištěnce podle § 32 na ten kalendářní měsíc, v němž pojištěnec odpracoval 1 směnu v zaměstnání v hlubinném hornictví podle § 37b odst. 2 nebo aspoň 1 směnu v rizikovém zaměstnání podle § 37d odst. 5 věty první. Ustanovení věty první se nevztahuje na kalendářní měsíc, v němž pojištěnec dosáhl důchodového věku uvedeného ve větě první.*
 
 **Výklad:**
 
@@ -575,7 +625,7 @@ Koeficient 0,6 zohledňuje skutečnost, že **počet kalendářních dnů** v hi
 >
 > *(1) Důchodový věk pojištěnce uvedeného v § 37b se stanoví tak, že od důchodového věku stanoveného podle § 32 se odečte 7 let; při stanovení důchodového věku tohoto pojištěnce se u žen postupuje stejně jako u mužů stejného data narození.*
 >
-> *(2) Procentní výměra starobního důchodu pojištěnce, jehož důchodový věk je stanoven podle odstavce 1, se zvyšuje ode dne přiznání tohoto důchodu podle předpisů o zvýšení důchodů, které nabyly účinnosti v období od 1. ledna 1996 do dne, který předchází dni, od něhož se přiznává tento důchod. (...)*
+> *(2) Procentní výměra starobního důchodu pojištěnce, jehož důchodový věk je stanoven podle odstavce 1, se zvyšuje ode dne přiznání tohoto důchodu podle předpisů o zvýšení důchodů, které nabyly účinnosti v období od 1. ledna 1996 do dne, který předchází dni, od něhož se přiznává tento důchod. Zvýšení podle věty první však spolu s procentní výměrou důchodu nesmí přesáhnout nejvyšší výměru, která se stanoví tak, že nejvyšší částka výše důchodu podle § 4 odst. 1 věty druhé zákona č. 76/1995 Sb., o zvýšení vyplácených důchodů a důchodů přiznávaných v roce 1995, se zvýší podle předpisů o zvýšení důchodů, které nabyly účinnosti v období od 1. ledna 1996 do dne, který předchází dni, od něhož se přiznává starobní důchod. Zvýšení podle věty první a druhé se stanoví tak, jako kdyby starobní důchod byl přiznán ke dni 31. prosince 1995.*
 
 **Výklad:**
 
@@ -601,13 +651,13 @@ Existuje **strop** — zvýšení nesmí přesáhnout „nejvyšší výměru", 
 >
 > *(1) Ustanovení tohoto dílu se vztahují na pojištěnce, který v rizikovém zaměstnání nebo v zaměstnání zdravotnického záchranáře nebo člena jednotky hasičského záchranného sboru podniku odpracoval aspoň 2 200 směn.*
 >
-> *(2) Rizikovým zaměstnáním se rozumí zaměstnání, v němž jsou po 31. prosinci 2014 vykonávány rizikové práce. Rizikovou prací se pro účely tohoto zákona rozumí práce, která je podle právních předpisů upravujících ochranu veřejného zdraví zařazena do čtvrté kategorie.*
+> *(2) Rizikovým zaměstnáním se rozumí zaměstnání, v němž jsou po 31. prosinci 2014 vykonávány rizikové práce. Rizikovou prací se pro účely tohoto zákona rozumí práce, která je podle právních předpisů upravujících ochranu veřejného zdraví54) zařazena do čtvrté kategorie.*
 >
-> *(3) Zaměstnáním zdravotnického záchranáře se rozumí zaměstnání, v němž jsou po 31. prosinci 1992 vykonávány práce člena výjezdové skupiny zdravotnické záchranné služby, operátora zdravotnického operačního střediska a pomocného operačního střediska zdravotnické záchranné služby a záchranáře horské služby (dále jen „zdravotnický záchranář").*
+> *(3) Zaměstnáním zdravotnického záchranáře se rozumí zaměstnání, v němž jsou po 31. prosinci 1992 vykonávány práce člena výjezdové skupiny zdravotnické záchranné služby52), operátora zdravotnického operačního střediska a pomocného operačního střediska zdravotnické záchranné služby a záchranáře horské služby (dále jen „zdravotnický záchranář“).*
 >
 > *(4) Zaměstnáním člena jednotky hasičského záchranného sboru podniku se rozumí zaměstnání, v němž jsou po 31. prosinci 1992 vykonávány práce člena jednotky hasičského záchranného sboru podniku.*
 >
-> *(5) Směnou v rizikovém zaměstnání se rozumí 8 hodin výkonu rizikové práce. (...)*
+> *(5) Směnou v rizikovém zaměstnání se rozumí 8 hodin výkonu rizikové práce. Směnou v zaměstnání zdravotnického záchranáře nebo člena jednotky hasičského záchranného sboru podniku se rozumí 8 hodin výkonu práce zdravotnického záchranáře nebo člena jednotky hasičského záchranného sboru podniku. Počet směn v rizikovém zaměstnání a v zaměstnání zdravotnického záchranáře nebo člena jednotky hasičského záchranného sboru podniku se stanoví způsobem uvedeným v zákoně o organizaci a provádění sociálního zabezpečení53).*
 
 **Výklad:**
 
@@ -705,12 +755,34 @@ Pojem **pracovní úraz** je definován v § 271k zákoníku práce. Vztahuje se
 > *(2) Jestliže pracovní schopnost pojištěnce poklesla*
 >
 > *- a) nejméně o 35 %, avšak nejvíce o 49 %, jedná se o invaliditu prvního stupně,*
+>
 > *- b) nejméně o 50 %, avšak nejvíce o 69 %, jedná se o invaliditu druhého stupně,*
+>
 > *- c) nejméně o 70 %, jedná se o invaliditu třetího stupně.*
 >
 > *(3) Pracovní schopností se rozumí schopnost pojištěnce vykonávat výdělečnou činnost odpovídající jeho tělesným, smyslovým a duševním schopnostem, s přihlédnutím k dosaženému vzdělání, zkušenostem a znalostem a předchozím výdělečným činnostem. Poklesem pracovní schopnosti se rozumí pokles schopnosti vykonávat výdělečnou činnost v důsledku omezení tělesných, smyslových a duševních schopností ve srovnání se stavem, který byl u pojištěnce před vznikem dlouhodobě nepříznivého zdravotního stavu.*
 >
-> *(4) Při určování poklesu pracovní schopnosti se vychází ze zdravotního stavu pojištěnce doloženého výsledky funkčních vyšetření; přitom se bere v úvahu, (...)*
+> *(4) Při určování poklesu pracovní schopnosti se vychází ze zdravotního stavu pojištěnce doloženého výsledky funkčních vyšetření; přitom se bere v úvahu,*
+>
+> *- a) zda jde o zdravotní postižení trvale ovlivňující pracovní schopnost,*
+>
+> *- b) zda se jedná o stabilizovaný zdravotní stav,*
+>
+> *- c) zda a jak je pojištěnec na své zdravotní postižení adaptován,*
+>
+> *- d) schopnost rekvalifikace34b) pojištěnce na jiný druh výdělečné činnosti, než dosud vykonával,*
+>
+> *- e) schopnost využití zachované pracovní schopnosti v případě poklesu pracovní schopnosti nejméně o 35 % a nejvíce o 69 %,*
+>
+> *- f) v případě poklesu pracovní schopnosti nejméně o 70 % též to, zda je pojištěnec schopen výdělečné činnosti za zcela mimořádných podmínek.*
+>
+> *(5) Za zdravotní postižení se pro účely posouzení poklesu pracovní schopnosti považuje soubor všech funkčních poruch, které s ním souvisejí.*
+>
+> *(6) Za stabilizovaný zdravotní stav [odstavec 4 písm. b)] se považuje takový zdravotní stav, který se ustálil na úrovni, která umožňuje pojištěnci vykonávat výdělečnou činnost bez zhoršení zdravotního stavu vlivem takové činnosti; udržení stabilizace zdravotního stavu může být přitom podmíněno dodržováním určité léčby nebo pracovních omezení.*
+>
+> *(7) Pojištěnec je adaptován na své zdravotní postižení [odstavec 4 písm. c)], jestliže nabyl, popřípadě znovu nabyl schopností a dovedností, které mu spolu se zachovanými tělesnými, smyslovými a duševními schopnostmi umožňují vykonávat výdělečnou činnost bez zhoršení zdravotního stavu vlivem takové činnosti.*
+>
+> *(8) Procentní míra poklesu pracovní schopnosti se určuje v celých číslech.*
 
 **Výklad:**
 
@@ -771,13 +843,20 @@ Posouzení probíhá podle **vyhlášky č. 359/2009 Sb.**, kterou se stanoví p
 > *(1) Potřebná doba pojištění pro nárok na invalidní důchod činí u pojištěnce ve věku*
 >
 > *- a) do 20 let méně než jeden rok,*
+>
 > *- b) od 20 let do 22 let jeden rok,*
+>
 > *- c) od 22 let do 24 let dva roky,*
+>
 > *- d) od 24 let do 26 let tři roky,*
+>
 > *- e) od 26 let do 28 let čtyři roky a*
+>
 > *- f) nad 28 let pět roků.*
 >
-> *(2) Potřebná doba pojištění pro nárok na invalidní důchod se zjišťuje z období před vznikem invalidity, a jde-li o pojištěnce ve věku nad 28 let, z posledních deseti roků před vznikem invalidity. U pojištěnce staršího 38 let se podmínka potřebné doby pojištění pro nárok na invalidní důchod považuje za splněnou též, byla-li tato doba získána v období posledních 20 let před vznikem invalidity; potřebná doba pojištění činí přitom 10 roků. (...)*
+> *(2) Potřebná doba pojištění pro nárok na invalidní důchod se zjišťuje z období před vznikem invalidity, a jde-li o pojištěnce ve věku nad 28 let, z posledních deseti roků před vznikem invalidity. U pojištěnce staršího 38 let se podmínka potřebné doby pojištění pro nárok na invalidní důchod považuje za splněnou též, byla-li tato doba získána v období posledních 20 let před vznikem invalidity; potřebná doba pojištění činí přitom 10 roků. Podmínka potřebné doby pojištění pro nárok na invalidní důchod se považuje za splněnou též, byla-li tato doba získána v kterémkoliv období deseti roků dokončeném po vzniku invalidity; u pojištěnce mladšího 24 let činí přitom potřebná doba pojištění dva roky.*
+>
+> *(3) Pro účely splnění podmínky potřebné doby pojištění pro nárok na invalidní důchod se za dobu pojištění považuje též doba účasti na pojištění osob uvedených v § 5 odst. 2 písm. a) a dále doba studia na střední nebo vysoké škole v České republice, a to před dosažením 18 let věku, nejdříve však po ukončení povinné školní docházky, a po dosažení věku 18 let po dobu prvních 6 let tohoto studia. Ustanovení § 12 odst. 1 věty druhé platí zde přiměřeně.*
 
 **Výklad:**
 
@@ -927,13 +1006,13 @@ V opačném případě se dopočtená doba **krátí v poměru** délky doby poj
 
 > **§ 42**
 >
-> *(1) Na invalidní důchod pro invaliditu třetího stupně má nárok též osoba, která dosáhla aspoň 18 let věku, má trvalý pobyt na území České republiky a je invalidní pro invaliditu třetího stupně, jestliže tato invalidita vznikla před dosažením 18 let věku a tato osoba nebyla účastna pojištění po potřebnou dobu (§ 40). Za invaliditu třetího stupně se pro účely věty první považuje též takové omezení tělesných, smyslových nebo duševních schopností, které má za následek neschopnost soustavné přípravy k pracovnímu uplatnění. (...)*
+> *(1) Na invalidní důchod pro invaliditu třetího stupně má nárok též osoba, která dosáhla aspoň 18 let věku, má trvalý pobyt na území České republiky a je invalidní pro invaliditu třetího stupně, jestliže tato invalidita vznikla před dosažením 18 let věku a tato osoba nebyla účastna pojištění po potřebnou dobu (§ 40). Za invaliditu třetího stupně se pro účely věty první považuje též takové omezení tělesných, smyslových nebo duševních schopností, které má za následek neschopnost soustavné přípravy k pracovnímu uplatnění. Při posuzování invalidity pro účely nároku na invalidní důchod pro invaliditu třetího stupně podle věty první se neprovádí srovnání se stavem, který byl u osoby uvedené ve větě první před vznikem dlouhodobě nepříznivého zdravotního stavu (§ 39 odst. 3 věta druhá).*
 >
-> *(2) Výše procentní výměry invalidního důchodu osoby uvedené v odstavci 1 činí měsíčně 45 % výpočtového základu; pro účely stanovení výpočtového základu se za osobní vyměřovací základ považuje všeobecný vyměřovací základ, který o dva roky předchází roku přiznání invalidního důchodu, vynásobený přepočítacím koeficientem (§ 17 odst. 4) pro úpravu tohoto všeobecného vyměřovacího základu. (...)*
+> *(2) Výše procentní výměry invalidního důchodu osoby uvedené v odstavci 1 činí měsíčně 45 % výpočtového základu; pro účely stanovení výpočtového základu se za osobní vyměřovací základ považuje všeobecný vyměřovací základ, který o dva roky předchází roku přiznání invalidního důchodu, vynásobený přepočítacím koeficientem (§ 17 odst. 4) pro úpravu tohoto všeobecného vyměřovacího základu. Pro výši základní výměry tohoto důchodu platí § 41 odst. 1 obdobně.*
 >
-> *(3) Procentní výměra invalidního důchodu náleží pojištěnci mladšímu 28 let, který splnil podmínky nároku na invalidní důchod pro invaliditu třetího stupně, nejméně ve výši stanovené podle odstavce 2, na invalidní důchod pro invaliditu druhého stupně nejméně ve výši poloviny částky stanovené podle odstavce 2 a na invalidní důchod pro invaliditu prvního stupně nejméně ve výši třetiny částky stanovené podle odstavce 2, (...)*
+> *(3) Procentní výměra invalidního důchodu náleží pojištěnci mladšímu 28 let, který splnil podmínky nároku na invalidní důchod pro invaliditu třetího stupně, nejméně ve výši stanovené podle odstavce 2, na invalidní důchod pro invaliditu druhého stupně nejméně ve výši poloviny částky stanovené podle odstavce 2 a na invalidní důchod pro invaliditu prvního stupně nejméně ve výši třetiny částky stanovené podle odstavce 2, je-li invalidní důchod přiznáván před 18. rokem věku nebo je-li období od 18 let věku do vzniku nároku na invalidní důchod kryto dobou pojištění nebo doba, která není kryta dobou pojištění, je kratší jednoho roku; přitom se pro tyto účely za dobu pojištění považuje i doba studia na střední nebo vysoké škole v České republice po ukončení povinné školní docházky do dosažení věku 18 let a po dosažení věku 18 let po dobu prvních 6 let tohoto studia, doba, po kterou byl pojištěnec veden v evidenci krajské pobočky Úřadu práce jako uchazeč o zaměstnání, a náhradní doba pojištění, i když doba pojištění netrvala ani jeden rok.*
 >
-> *(4) Pojištěnci, který ke dni vzniku nároku na invalidní důchod získal aspoň 15 roků doby pojištění uvedené v § 11 a § 13 odst. 1, náleží procentní výměra invalidního důchodu nejméně ve výši stanovené podle odstavce 2, jde-li o invalidní důchod pro invaliditu třetího stupně, (...)*
+> *(4) Pojištěnci, který ke dni vzniku nároku na invalidní důchod získal aspoň 15 roků doby pojištění uvedené v § 11 a § 13 odst. 1, náleží procentní výměra invalidního důchodu nejméně ve výši stanovené podle odstavce 2, jde-li o invalidní důchod pro invaliditu třetího stupně, nejméně ve výši poloviny částky stanovené podle odstavce 2, jde-li o invalidní důchod pro invaliditu druhého stupně, a nejméně ve výši třetiny částky stanovené podle odstavce 2, jde-li o invalidní důchod pro invaliditu prvního stupně.*
 
 **Výklad:**
 
@@ -1152,9 +1231,10 @@ Pokud zemřelý byl poživatelem důchodu I. nebo II. stupně invalidity (s niž
 > *(1) Na sirotčí důchod má nárok nezaopatřené dítě, zemřel-li*
 >
 > *- a) rodič (osvojitel) dítěte, nebo*
+>
 > *- b) osoba, která převzala dítě do péče nahrazující péči rodičů na základě rozhodnutí soudu o svěření dítěte do péče jiné osoby,*
 >
-> *jestliže rodič (osvojitel) nebo osoba uvedená v písmenu b) byli poživateli starobního nebo invalidního důchodu nebo ke dni smrti splnili podmínku potřebné doby pojištění pro nárok na invalidní důchod nebo podmínky nároku na starobní důchod stanovené v § 29 nebo § 31 odst. 1 anebo zemřeli následkem pracovního úrazu. Podmínka potřebné doby pojištění pro nárok na invalidní důchod se pro účely vzniku nároku na sirotčí důchod považuje za splněnou, byla-li získána aspoň polovina potřebné doby pojištění uvedené v § 40. (...)*
+> *jestliže rodič (osvojitel) nebo osoba uvedená v písmenu b) byli poživateli starobního nebo invalidního důchodu nebo ke dni smrti splnili podmínku potřebné doby pojištění pro nárok na invalidní důchod nebo podmínky nároku na starobní důchod stanovené v § 29 nebo § 31 odst. 1 anebo zemřeli následkem pracovního úrazu. Podmínka potřebné doby pojištění pro nárok na invalidní důchod se pro účely vzniku nároku na sirotčí důchod považuje za splněnou, byla-li získána aspoň polovina potřebné doby pojištění uvedené v § 40. Podmínka potřebné doby pojištění pro nárok na invalidní důchod se pro účely vzniku nároku na sirotčí důchod považuje za splněnou též, byl-li získán aspoň 1 rok doby pojištění uvedené v § 11 a § 13 odst. 1 přede dnem smrti v období uvedeném v § 40 odst. 2 větě první anebo, jde-li o pojištěnce staršího 38 let, byly-li získány aspoň 2 roky doby pojištění uvedené v § 11 a § 13 odst. 1 přede dnem smrti v období uvedeném v § 40 odst. 2 větě druhé.*
 >
 > *(2) Osiřelé nezaopatřené dítě má za splnění podmínek stanovených v odstavci 1 nárok na sirotčí důchod po každém z rodičů (osvojitelů) nebo osobě uvedené v odstavci 1 písm. b).*
 >
@@ -1332,13 +1412,35 @@ Promlčecí lhůta **neplyne** v následujících případech:
 >
 > *- a) nárok na důchod nebo na jeho výplatu zanikl, důchod se odejme nebo jeho výplata se zastaví, a to ode dne následujícího po dni, jímž uplynulo období, za které již byl vyplacen,*
 >
-> *- b) důchod byl přiznán nebo je vyplácen v nižší částce, než v jaké náleží, nebo byl neprávem odepřen, anebo byl přiznán od pozdějšího data, než od jakého náleží, důchod se zvýší nebo přizná, a to ode dne, od něhož důchod nebo jeho zvýšení náleží. Důchod nebo jeho zvýšení se přitom doplatí nejvýše pět let nazpět ode dne zjištění nebo uplatnění nároku na důchod nebo jeho zvýšení; (...)*
+> *- b) důchod byl přiznán nebo je vyplácen v nižší částce, než v jaké náleží, nebo byl neprávem odepřen, anebo byl přiznán od pozdějšího data, než od jakého náleží, důchod se zvýší nebo přizná, a to ode dne, od něhož důchod nebo jeho zvýšení náleží. Důchod nebo jeho zvýšení se přitom doplatí nejvýše pět let nazpět ode dne zjištění nebo uplatnění nároku na důchod nebo jeho zvýšení; pro běh této lhůty platí § 55 odst. 2 věta druhá a třetí obdobně. Důchod nebo jeho zvýšení se však doplatí ode dne, od něhož důchod nebo jeho zvýšení náleží, v případě, že důchod nebyl přiznán nebo byl vyplácen v nižší částce, než v jaké náleží, nebo byl neprávem odepřen, anebo byl přiznán od pozdějšího data, než od jakého náleží, v důsledku nesprávného postupu orgánu sociálního zabezpečení,*
 >
-> *- c) důchod byl přiznán nebo je vyplácen ve vyšší částce, než v jaké náleží, nebo byl přiznán nebo se vyplácí neprávem, důchod se sníží nebo odejme nebo jeho výplata se zastaví, (...)*
+> *- c) důchod byl přiznán nebo je vyplácen ve vyšší částce, než v jaké náleží, nebo byl přiznán nebo se vyplácí neprávem, důchod se sníží nebo odejme nebo jeho výplata se zastaví, a to ode dne následujícího po dni, jímž uplynulo období, za které již byl vyplacen,*
 >
-> *- d) důchod byl neprávem přiznán, zvýšen nebo vyplácen od dřívějšího data, než od jakého důchod, jeho zvýšení nebo jeho výplata náleží, důchod se přizná nebo zvýší ode dne, od něhož důchod nebo jeho zvýšení náleží, (...)*
+> *- d) důchod byl neprávem přiznán, zvýšen nebo vyplácen od dřívějšího data, než od jakého důchod, jeho zvýšení nebo jeho výplata náleží, důchod se přizná nebo zvýší ode dne, od něhož důchod nebo jeho zvýšení náleží, nebo se nárok na výplatu důchodu stanoví ode dne, od něhož výplata náleží,*
 >
 > *- e) se změnily skutečnosti rozhodné pro výši důchodu nebo pro nárok na jeho výplatu, postupuje se obdobně podle ustanovení písmene b) nebo c).*
+>
+> *(2) Byla-li výplata invalidního důchodu zastavena pro nedostavení se pojištěnce ke kontrolní lékařské prohlídce nebo nepodrobení se vyšetření zdravotního stavu anebo nepředložení nálezů ošetřujících lékařů nebo nesdělení údajů o dosaženém vzdělání, zkušenostech a znalostech a o předchozích výdělečných činnostech a zjistí-li se, že*
+>
+> *- a) pojištěnec přestal být invalidním před zastavením výplaty invalidního důchodu, důchod nenáleží ode dne zastavení jeho výplaty,*
+>
+> *- b) u pojištěnce došlo ke snížení stupně invalidity před zastavením výplaty invalidního důchodu, důchod náleží ve výši odpovídající novému stupni invalidity ode dne zastavení jeho výplaty,*
+>
+> *- c) pojištěnec přestal být invalidním po zastavení výplaty invalidního důchodu, důchod nenáleží ode dne, od kterého pojištěnec přestal být invalidním,*
+>
+> *- d) u pojištěnce došlo ke snížení stupně invalidity po zastavení výplaty invalidního důchodu, důchod náleží ve výši odpovídající novému stupni invalidity ode dne, od kterého došlo ke snížení stupně invalidity.*
+>
+> *(3) Pominou-li důvody uvedené v odstavci 2, pro které byla výplata invalidního důchodu zastavena, výplata invalidního důchodu se uvolní v rozsahu, v jakém je nárok na invalidní důchod.*
+>
+> *(4) Byla-li procentní výměra starobního důchodu snížena o částku zvýšení za vychované dítě pro neposkytnutí součinnosti ke zjištění, která osoba osobně pečovala o dítě v největším rozsahu, a zjistí-li se, že pojištěnec o dítě v největším rozsahu*
+>
+> *- a) nepečoval, zvýšení za vychované dítě se odejme ode dne, od něhož byla procentní výměra starobního důchodu z tohoto důvodu snížena,*
+>
+> *- b) pečoval, procentní výměra starobního důchodu se znovu upraví o zvýšení za vychované dítě a část důchodu, která nebyla vyplacena, se doplatí.*
+>
+> *(5) Zanikl-li nárok na důchod nebo jeho výplatu, popřípadě část výplaty, pro přiznání jiného důchodu, zúčtují se částky jiného důchodu náležející ode dne jeho přiznání s částkami dosavadního důchodu vyplacenými za tutéž dobu.*
+>
+> *(6) Po zjištění výše vyměřovacího základu pro pojistné u osob samostatně výdělečně činných podle skutečného příjmu ze samostatné výdělečné činnosti podle § 11 odst. 3 se výše důchodu přepočte se zřetelem k výši tohoto vyměřovacího základu, a to ode dne přiznání důchodu.*
 
 **Výklad:**
 
@@ -1404,11 +1506,11 @@ Tato úprava je výsledkem kompromisu: na jedné straně chrání důchodce pře
 
 > **§ 58**
 >
-> *(1) Jsou-li současně splněny podmínky nároku na výplatu více důchodů téhož druhu nebo na výplatu starobního nebo invalidního důchodu, vyplácí se jen jeden důchod, a to vyšší; to však neplatí, jde-li o nárok na sirotčí důchody podle § 52 odst. 2, nestanoví-li se jinak v odstavci 2. (...)*
+> *(1) Jsou-li současně splněny podmínky nároku na výplatu více důchodů téhož druhu nebo na výplatu starobního nebo invalidního důchodu, vyplácí se jen jeden důchod, a to vyšší; to však neplatí, jde-li o nárok na sirotčí důchody podle § 52 odst. 2, nestanoví-li se jinak v odstavci 2. Jsou-li současně splněny podmínky nároku na výplatu starobního nebo invalidního důchodu ve stejné výši, vyplácí se důchod, který si pojištěnec zvolil. Dnem úpravy výplat důchodů pro souběh zanikají nároky na důchody, které se nevyplácejí; to však neplatí, dojde-li v důsledku změny stupně invalidity ke snížení výše invalidního důchodu a nová výše invalidního důchodu je nižší než starobní důchod, který se podle věty první nevyplácí, anebo zanikne-li nárok na důchod, který se podle věty první vyplácí.*
 >
-> *(2) Jsou-li současně splněny podmínky nároku na sirotčí důchod po rodiči a po osobě stejného pohlaví uvedené v § 52 odst. 1 písm. b), náleží pouze jeden důchod, a to vyšší. (...)*
+> *(2) Jsou-li současně splněny podmínky nároku na sirotčí důchod po rodiči a po osobě stejného pohlaví uvedené v § 52 odst. 1 písm. b), náleží pouze jeden důchod, a to vyšší. Jsou-li současně splněny podmínky nároku na důchody uvedené ve větě první ve stejné výši, vyplácí se důchod, který si pojištěnec zvolil.*
 >
-> *(3) Jsou-li současně splněny podmínky nároku na výplatu starobního důchodu, na který vznikl nárok podle § 29, a starobního důchodu, na který vznikl nárok podle § 61a odst. 1 a který nebyl zvýšen podle § 61a odst. 2 věty druhé, a pojištěnec ve lhůtě uvedené v § 61a odst. 2 větě třetí požádal o přiznání starobního důchodu, (...)*
+> *(3) Jsou-li současně splněny podmínky nároku na výplatu starobního důchodu, na který vznikl nárok podle § 29, a starobního důchodu, na který vznikl nárok podle § 61a odst. 1 a který nebyl zvýšen podle § 61a odst. 2 věty druhé, a pojištěnec ve lhůtě uvedené v § 61a odst. 2 větě třetí požádal o přiznání starobního důchodu, na který vznikl nárok podle § 29, a zároveň o zvýšení za vychované dítě podle § 34a, přičte se pro účely posouzení výše těchto důchodů zvýšení za vychované dítě k procentní výměře obou těchto důchodů. Je-li starobní důchod, na který vznikl nárok podle § 61a odst. 1, s přičtením zvýšení za vychované dítě podle věty první vyšší, náleží tento důchod ode dne souběhu v takto upravené výši; tím není dotčeno právo pojištěnce požádat o zvýšení za vychované dítě podle § 61a odst. 2 věty druhé za období ode dne vzniku nároku na tento důchod do dne tohoto souběhu.*
 
 **Výklad:**
 
@@ -1440,7 +1542,7 @@ Toto pravidlo je důležité pro **optimalizační strategii** pojištěnců, kt
 
 > **§ 59**
 >
-> *(1) Jsou-li současně splněny podmínky nároku na výplatu starobního nebo invalidního důchodu a na výplatu vdovského nebo vdoveckého důchodu anebo sirotčího důchodu, vyplácí se nejvyšší důchod v plné výši (§ 4 odst. 2 věta první) a z ostatních důchodů se vyplácí polovina procentní výměry, nestanoví-li se jinak v odstavci 2; (...) Podle předchozí věty se postupuje obdobně, jsou-li současně splněny podmínky nároku na výplatu vdovského nebo vdoveckého důchodu a sirotčího důchodu. (...) Má-li oboustranně osiřelé dítě nárok na dva sirotčí důchody, vyplácí se vyšší sirotčí důchod v plné výši (§ 4 odst. 2 věta první) a nižší sirotčí důchod se vyplácí ve výši procentní výměry; (...)*
+> *(1) Jsou-li současně splněny podmínky nároku na výplatu starobního nebo invalidního důchodu a na výplatu vdovského nebo vdoveckého důchodu anebo sirotčího důchodu, vyplácí se nejvyšší důchod v plné výši (§ 4 odst. 2 věta první) a z ostatních důchodů se vyplácí polovina procentní výměry, nestanoví-li se jinak v odstavci 2; starobním důchodem se pro účely části věty před středníkem rozumí starobní důchod v plné výši, i když je podle § 37 odst. 1 vyplácen ve výši poloviny. Podle předchozí věty se postupuje obdobně, jsou-li současně splněny podmínky nároku na výplatu vdovského nebo vdoveckého důchodu a sirotčího důchodu. Je-li výše několika důchodů stejná, krátí se podle věty první nejdříve sirotčí důchod a poté vdovský nebo vdovecký důchod. Má-li oboustranně osiřelé dítě nárok na dva sirotčí důchody, vyplácí se vyšší sirotčí důchod v plné výši (§ 4 odst. 2 věta první) a nižší sirotčí důchod se vyplácí ve výši procentní výměry; je-li výše obou sirotčích důchodů stejná, vyplácí se jeden sirotčí důchod v plné výši a druhý sirotčí důchod ve výši procentní výměry. Má-li oboustranně osiřelé dítě nárok na dva sirotčí důchody, považuje se pro účely vět první až třetí za sirotčí důchod úhrn sirotčích důchodů po úpravě podle věty čtvrté.*
 >
 > *(2) Jsou-li současně splněny podmínky nároku na výplatu starobního důchodu zvýšeného za dobu výdělečné činnosti vykonávané po vzniku nároku na tento důchod (§ 34 odst. 3 a 4 a § 36 odst. 3) nebo za vychované dítě (§ 34a) a na výplatu vdovského nebo vdoveckého důchodu, odečte se pro účely posouzení výše důchodů z procentní výměry starobního důchodu zvýšení za dobu výdělečné činnosti vykonávané po vzniku nároku na tento důchod a zvýšení za vychované dítě, a je-li zbylá část procentní výměry starobního důchodu nižší než procentní výměra vdovského nebo vdoveckého důchodu, vyplácí se vdovský nebo vdovecký důchod v plné výši (§ 4 odst. 2 věta první) a starobní důchod se vyplácí ve výši zvýšení za dobu výdělečné činnosti vykonávané po vzniku nároku na tento důchod a zvýšení za vychované dítě a jedné poloviny zbylé části procentní výměry.*
 
@@ -1678,15 +1780,25 @@ Není-li manžela ani dětí, nárok **přechází standardním dědictvím** po
 
 > **§ 64**
 >
-> *(1) Příjemcem důchodu je oprávněný nebo jeho zákonný zástupce nebo opatrovník anebo zvláštní příjemce. (...)*
+> *(1) Příjemcem důchodu je oprávněný nebo jeho zákonný zástupce nebo opatrovník anebo zvláštní příjemce. Kdo je zvláštní příjemce, stanoví zvláštní zákon.25) Příjemcem důchodu je dále osoba, která oprávněného zastupuje podle § 49 a 50 občanského zákoníku.*
 >
-> *(2) Důchody se vyplácejí v hotovosti. Na základě žádosti příjemce důchodu se důchod poukazuje na účet příjemce u banky v České republice nebo pobočky zahraniční banky nebo spořitelního a úvěrního družstva v České republice (dále jen „banka"); je-li příjemcem důchodu oprávněný, poukazuje se důchod na účet jeho manžela (manželky) u banky, pokud o to oprávněný plátce důchodu požádá a má-li v době, kdy o tento způsob výplaty požádá, právo disponovat s peněžními prostředky na takovém účtu. (...)*
+> *(2) Důchody se vyplácejí v hotovosti. Na základě žádosti příjemce důchodu se důchod poukazuje na účet příjemce u banky v České republice nebo pobočky zahraniční banky nebo spořitelního a úvěrního družstva v České republice (dále jen „banka“); je-li příjemcem důchodu oprávněný, poukazuje se důchod na účet jeho manžela (manželky) u banky, pokud o to oprávněný plátce důchodu požádá a má-li v době, kdy o tento způsob výplaty požádá, právo disponovat s peněžními prostředky na takovém účtu. Podmínkou výplaty důchodu oprávněnému na účet jeho manžela (manželky) je souhlas manžela (manželky) s tímto způsobem výplaty. Důchod se vyplácí podle věty druhé na účet příjemce důchodu, jen pokud podmínky pro vedení tohoto účtu jsou stanoveny tak, že z něj mohou být plátci důchodu vráceny ty částky důchodu, na které oprávněnému z důvodu jeho úmrtí zanikl nárok; pokud byl důchod poukázán na účet, který nesplňuje tyto podmínky, banka nesmí důchod připsat na účet příjemce důchodu a je povinna důchod neprodleně vrátit na účet, z něhož byla platba důchodu provedena.*
 >
 > *(3) Má-li právo disponovat s peněžními prostředky na účtu oprávněného jeho zákonný zástupce, opatrovník nebo osoba uvedená v odstavci 1 větě třetí, poukazuje se důchod oprávněného na základě jejich žádosti na tento účet.*
 >
-> *(4) Požádá-li příjemce důchodu o změnu způsobu výplaty důchodu nebo o změnu účtu (...) nejpozději od splátky důchodu splatné ve třetím kalendářním měsíci po kalendářním měsíci, v němž byla uplatněna žádost o takovou změnu; (...)*
+> *(4) Požádá-li příjemce důchodu o změnu způsobu výplaty důchodu nebo o změnu účtu, na který má být důchod poukazován, je plátce důchodu povinen provést takovou změnu nejpozději od splátky důchodu splatné ve třetím kalendářním měsíci po kalendářním měsíci, v němž byla uplatněna žádost o takovou změnu; to platí obdobně i v případě žádosti o vyplácení důchodu jinému než dosavadnímu příjemci. Je-li důchod vyplácen na účet manžela (manželky) u banky podle odstavce 2 věty druhé, neodpovídá plátce důchodu za škodu, která oprávněnému vznikne právním úkonem manžela (manželky) jako majitele účtu, jehož důsledkem je omezení nebo zánik práva oprávněného disponovat s peněžními prostředky na takovém účtu, ani za škodu, která oprávněnému vznikne, zanikne-li takový účet v důsledku úmrtí manžela (manželky).*
 >
-> *(5) Příjemce důchodu vypláceného v hotovosti prostřednictvím držitele poštovní licence hradí náklady plátce důchodu za poukazy splátek důchodu vyplácených v pravidelných lhůtách. (...)*
+> *(5) Příjemce důchodu vypláceného v hotovosti prostřednictvím držitele poštovní licence hradí náklady plátce důchodu za poukazy splátek důchodu vyplácených v pravidelných lhůtách. Věta první však neplatí v případě, že oprávněnému byl důchod přiznán před 1. lednem 2010 a tomuto oprávněnému trvá od 31. prosince 2009 nepřetržitě nárok na alespoň 1 důchod. Plátce důchodu je povinen výši nákladů uvedených ve větě první zveřejnit.*
+>
+> *(6) Je-li důchod vyplácen podle odstavce 2 na účet u banky a na tento účet byly poukázány splátky důchodu, na které z důvodu úmrtí oprávněného zanikl nárok, je banka povinna tyto splátky důchodu vrátit plátci důchodu na jeho výzvu. Banka přitom nesmí tyto splátky důchodu použít k úhradě svých pohledávek vůči majiteli účtu. Pokud byly tyto splátky důchodu zcela nebo zčásti použity ve prospěch jiných osob, sdělí banka plátci důchodu jí známé údaje směřující k identifikaci těchto třetích osob s uvedením dne platby.*
+>
+> *(7) Má-li právo disponovat s peněžními prostředky na účtu oprávněného, na který je důchod vyplácen, jiná osoba než oprávněný nebo je-li důchod oprávněného vyplácen na účet jeho manžela (manželky), jsou tato jiná osoba nebo manžel (manželka) povinni vrátit plátci důchodu ty splátky důchodu oprávněného, které nenáležely proto, že oprávněný zemřel před počátkem období, na které byly tyto splátky vyplaceny, pokud nedošlo k vrácení těchto splátek plátci důchodu bankou, u níž je tento účet veden. Není-li této jiné osoby, jsou povinny plátci důchodu vrátit tyto splátky důchodu postupně manžel (manželka), pokud mu (jí) po zemřelém oprávněném vznikl nárok na vdovecký (vdovský) důchod, a dále děti a rodiče, jestliže žili s oprávněným v době jeho smrti v domácnosti; nelze-li takto vrátit tyto splátky důchodu, považují se tyto splátky důchodu za dluh oprávněného, který se vypořádá v rámci dědictví. Nelze-li vrátit splátky důchodu podle věty první proto, že tato jiná osoba nebo manžel (manželka) zemřeli, považují se splátky důchodu, které tato jiná osoba nebo manžel (manželka) nevrátili, za jejich dluh, který se vypořádá v rámci dědictví po nich.*
+>
+> *(8) Je-li důchod vyplácen v hotovosti, je osoba, která převzala splátky důchodu oprávněného, povinna vrátit plátci důchodu ty splátky důchodu oprávněného, které nenáležely proto, že oprávněný zemřel před počátkem období, na které byly tyto splátky vyplaceny. Nelze-li vrátit splátky důchodu podle věty první proto, že osoba, která převzala splátky důchodu oprávněného, zemřela, považují se tyto splátky důchodu za její dluh, který se vypořádá v rámci dědictví po ní.*
+>
+> *(9) Žádosti o poukazování důchodu na účet podle odstavce 2 nebo 3 se podávají plátci důchodu na tiskopise předepsaném plátcem důchodu.*
+>
+> *(10) Plátce důchodu, který vyplácí důchod osobě uvedené v § 66 odst. 2 poukazem na účet u banky v zahraničí, hradí úplatu za tuto výplatu důchodu svému poskytovateli platebních služeb; úplatu bance příjemce důchodu hradí příjemce důchodu.*
 
 **Výklad:**
 
@@ -1728,7 +1840,7 @@ Pro **hotovostní výplatu** platí, že **osoba převzavší splátky** je povi
 >
 > *(1) Informuje-li Vězeňská služba České republiky plátce důchodu o tom, že oprávněný je ve výkonu trestu odnětí svobody nebo zabezpečovací detence, plátce důchodu poukazuje důchod na účet věznice nebo ústavu pro výkon zabezpečovací detence, kde oprávněný trest odnětí svobody nebo zabezpečovací detenci vykonává.*
 >
-> *(2) Je-li oprávněný ve výkonu trestu odnětí svobody nebo zabezpečovací detence a příjemcem důchodu je jiná osoba, plátce důchodu vyplácí důchod této jiné osobě. (...)*
+> *(2) Je-li oprávněný ve výkonu trestu odnětí svobody nebo zabezpečovací detence a příjemcem důchodu je jiná osoba, plátce důchodu vyplácí důchod této jiné osobě. Příjemce důchodu je povinen neprodleně oznámit věznici nebo ústavu pro výkon zabezpečovací detence, kde oprávněný trest odnětí svobody nebo zabezpečovací detenci vykonává, skutečnost, že oprávněný je poživatelem důchodu, a zajistit zasílání důchodu bez zbytečného odkladu, nejpozději do 15 dnů ode dne, kdy důchod obdržel, na účet vedený touto věznicí nebo ústavem pro výkon zabezpečovací detence.*
 
 **Výklad:**
 
@@ -1748,7 +1860,7 @@ Důchod ve výkonu trestu může být použit:
 
 > **§ 65**
 >
-> *(1) Invalidní důchod se nevyplácí po dobu výplaty nemocenského a po dobu poskytování náhrady mzdy, platu nebo odměny nebo sníženého platu nebo snížené odměny anebo služebního příjmu nebo služebního platu (dále jen „náhrada mzdy") v době dočasné pracovní neschopnosti nebo karantény, pokud den vzniku invalidity spadá do období dočasné pracovní neschopnosti nebo karantény, které jsou důvodem výplaty nemocenského nebo pobírání náhrady mzdy. (...)*
+> *(1) Invalidní důchod se nevyplácí po dobu výplaty nemocenského a po dobu poskytování náhrady mzdy, platu nebo odměny25a) nebo sníženého platu nebo snížené odměny anebo služebního příjmu nebo služebního platu (dále jen „náhrada mzdy“) v době dočasné pracovní neschopnosti nebo karantény, pokud den vzniku invalidity spadá do období dočasné pracovní neschopnosti nebo karantény, které jsou důvodem výplaty nemocenského nebo pobírání náhrady mzdy. Pro účely věty první se za výplatu nemocenského považují i dny, po které se nemocenské nevyplácí osobě samostatně výdělečně činné, která je účastna nemocenského pojištění, podle § 23 zákona o nemocenském pojištění v prvním období dočasné pracovní neschopnosti nebo karantény, a dny, po které se nemocenské nevyplácí z důvodu porušení režimu dočasně práce neschopného pojištěnce25b), a za pobírání náhrady mzdy se považují i dny, po které se náhrada mzdy neposkytuje z důvodu porušení režimu dočasně práce neschopného pojištěnce25d). Pro účely věty první se za dočasnou pracovní neschopnost nepovažuje dočasná pracovní neschopnost, která se považuje za pokračování předchozí dočasné pracovní neschopnosti, která byla ukončena z důvodu, že pojištěnec byl uznán invalidním pro invaliditu prvního nebo druhého stupně.*
 >
 > *(2) Invalidní důchod pro invaliditu následkem úrazu (onemocnění) uvedeného v § 25 odst. 1 větě druhé se vyplácí nejdříve po skončení služby, za jejíhož výkonu došlo k tomuto úrazu (onemocnění).*
 
@@ -1793,19 +1905,45 @@ Logika: pojištěnec, který pracoval (a tedy získal dobu pojištění) i v zah
 
 > **§ 67**
 >
-> *(1) Vyplácené důchody se zvyšují v závislosti na růstu indexu spotřebitelských cen (dále jen „růst cen") a na růstu mezd. Vyplácenými důchody se rozumí důchody přiznané ode dne, který spadá do období před kalendářním měsícem, do něhož spadá den, od něhož se důchody zvyšují.*
+> *(1) Vyplácené důchody se zvyšují v závislosti na růstu indexu spotřebitelských cen (dále jen „růst cen“) a na růstu mezd. Vyplácenými důchody se rozumí důchody přiznané ode dne, který spadá do období před kalendářním měsícem, do něhož spadá den, od něhož se důchody zvyšují.*
 >
 > *(2) Základní výměry a procentní výměry vyplácených důchodů se zvyšují od 1. ledna kalendářního roku.*
 >
 > *(3) Období pro zjišťování růstu cen se stanoví tak, že prvním měsícem tohoto období je červenec kalendářního roku, který o 2 roky předchází kalendářnímu roku, do něhož spadá den, od něhož se vyplácené důchody zvyšují podle odstavce 2, a posledním měsícem tohoto období je červen kalendářního roku, který o 1 rok předchází kalendářnímu roku, do něhož spadá den, od něhož se vyplácené důchody zvyšují podle odstavce 2.*
 >
-> *(4) Růst cen se stanoví jako procentní přírůstek indexu spotřebitelských cen (...). Výpočet růstu cen se provádí z originálních bazických indexů spotřebitelských cen (životních nákladů) za domácnosti důchodců zjištěných Českým statistickým úřadem.*
+> *(4) Růst cen se stanoví jako procentní přírůstek indexu spotřebitelských cen v posledním měsíci období stanoveného pro zjišťování růstu cen oproti tomuto indexu v kalendářním měsíci, který bezprostředně předchází prvnímu kalendářnímu měsíci tohoto období s tím, že tento růst se stanoví se zaokrouhlením na jedno platné desetinné místo a podíl pro jeho stanovení činí vždy nejméně 1. Výpočet růstu cen se provádí z originálních bazických indexů spotřebitelských cen (životních nákladů) za domácnosti důchodců zjištěných Českým statistickým úřadem.*
 >
 > *(5) Základní výměry vyplácených důchodů se zvyšují tak, aby výše základní výměry důchodu činila 10 % průměrné mzdy s tím, že výše základní výměry se zaokrouhluje na celé desetikoruny nahoru.*
 >
-> *(6) Procentní výměry vyplácených důchodů se zvýší o tolik procent zaokrouhlených s přesností na jedno platné desetinné místo nahoru, aby u průměrného starobního důchodu úhrn částky zvýšení základní výměry důchodu a částky zvýšení procentní výměry důchodu odpovídal zvýšení průměrného starobního důchodu stanoveného ve výši součtu růstu cen podle odstavce 4 a jedné třetiny růstu reálné mzdy zaokrouhlené s přesností na jedno platné desetinné místo. (...)*
+> *(6) Procentní výměry vyplácených důchodů se zvýší o tolik procent zaokrouhlených s přesností na jedno platné desetinné místo nahoru, aby u průměrného starobního důchodu úhrn částky zvýšení základní výměry důchodu a částky zvýšení procentní výměry důchodu odpovídal zvýšení průměrného starobního důchodu stanoveného ve výši součtu růstu cen podle odstavce 4 a jedné třetiny růstu reálné mzdy zaokrouhlené s přesností na jedno platné desetinné místo. Byly-li procentní výměry vyplácených důchodů zvýšeny v předchozím kalendářním roce podle § 67a, sníží se počet procent stanovený podle věty první o tolik procent, o kolik byly zvýšeny procentní výměry v předchozím kalendářním roce podle § 67a. Procentní výměry vyplácených důchodů se však nezvýší, pokud se v důsledku zvýšení základní výměry důchodu podle odstavce 5 zvýší výše průměrného starobního důchodu alespoň o tolik procent, kolik činí procento zvýšení stanovené ve větě první a druhé.*
 >
-> *(7) Pokud u průměrného starobního důchodu úhrn částky zvýšení základní výměry důchodu a částky zvýšení procentní výměry důchodu stanovené podle odstavce 6 nedosáhne 2,7 % jeho výše, může být stanoveno vyšší zvýšení procentní výměry důchodu, nejvýše však tak, aby u průměrného starobního důchodu úhrn částky zvýšení základní výměry důchodu a částky zvýšení procentní výměry důchodu činil 2,7 % jeho výše. (...)*
+> *(7) Pokud u průměrného starobního důchodu úhrn částky zvýšení základní výměry důchodu a částky zvýšení procentní výměry důchodu stanovené podle odstavce 6 nedosáhne 2,7 % jeho výše, může být stanoveno vyšší zvýšení procentní výměry důchodu, nejvýše však tak, aby u průměrného starobního důchodu úhrn částky zvýšení základní výměry důchodu a částky zvýšení procentní výměry důchodu činil 2,7 % jeho výše. Věta první se nepoužije, jestliže se v kalendářním roce, ve kterém se o zvýšení důchodů rozhoduje, zvyšují důchody podle § 67a.*
+>
+> *(8) Zvýšení procentní výměry důchodu se zaokrouhluje na celé koruny nahoru.*
+>
+> *(9) Průměrný starobní důchod se zjišťuje podle údajů České správy sociálního zabezpečení jako průměrná výše všech starobních důchodů, které byly vyplaceny za poslední kalendářní měsíc období pro zjišťování růstu cen, s výjimkou starobních důchodů, které se vyplácejí v nižší výši pro souběh s jiným důchodem podle § 59, a starobních důchodů podle § 29 odst. 2 a § 29 odst. 3 písm. b), popřípadě starobních důchodů podle předpisů platných před 1. lednem 2010 přiznávaných za dobu pojištění kratší než 25 roků.*
+>
+> *(10) Období pro zjišťování růstu reálné mzdy se stanoví tak, že prvním rokem tohoto období je kalendářní rok následující po posledním kalendářním roce období pro zjišťování růstu reálné mzdy použitého při předchozím zvýšení důchodů, při kterém bylo přihlédnuto k růstu reálné mzdy, a posledním rokem tohoto období je kalendářní rok, který o dva roky předchází kalendářnímu roku, do něhož spadá termín zvýšení důchodů. Pokud je ve stanoveném období podíl pro stanovení růstu reálné mzdy podle odstavce 11 nižší než 1, přihlédne se k růstu reálné mzdy až při tom zvýšení důchodů, při kterém je tento podíl vyšší než 1.*
+>
+> *(11) Růst reálných mezd se stanoví v procentech po zaokrouhlení na jedno platné desetinné místo podle podílu, v jehož čitateli je podíl všeobecného vyměřovacího základu za poslední kalendářní rok období pro zjišťování růstu reálné mzdy a všeobecného vyměřovacího základu za kalendářní rok, který bezprostředně předchází prvnímu kalendářnímu roku tohoto období, a ve jmenovateli je podíl průměrného ročního indexu spotřebitelských cen za domácnosti celkem vypočteného z originálních bazických indexů spotřebitelských cen zjištěných Českým statistickým úřadem za poslední kalendářní rok tohoto období a uvedeného průměrného ročního indexu za kalendářní rok, který bezprostředně předchází prvnímu kalendářnímu roku tohoto období.*
+>
+> *(12) Procentní výměry starobních důchodů, na které vznikl nárok podle § 31, se nezvyšují, pokud poživatel tohoto důchodu nedosáhl důchodového věku v období před kalendářním měsícem, do něhož spadá den, od něhož se vyplácené důchody zvyšují.*
+>
+> *(13) Pokud úhrn zvýšení základní výměry důchodu a zvýšení procentní výměry důchodu u všech důchodů vyplácených témuž poživateli je nižší než výše dočasného přídavku podle § 67aa, který byl vyplacen se splátkou důchodu splatnou v kalendářním měsíci, který předchází kalendářnímu měsíci, do něhož spadá den, od něhož se vyplácené důchody zvyšují podle odstavce 2, zvyšují se vyplácené důchody od splátky důchodu splatné v lednu kalendářního roku, ve kterém dochází ke zvýšení.*
+>
+> *(14) Je-li po zvýšení podle odstavců 6 a 7 procentní výměra poživatele*
+>
+> *- a) starobního důchodu nižší než částka stanovená podle § 33 odst. 2 věty třetí, zvýší se procentní výměra starobního důchodu ještě tak, aby činila tuto částku,*
+>
+> *- b) invalidního důchodu nižší než částka stanovená podle § 41 odst. 3 písm. a) až c), zvýší se procentní výměra invalidního důchodu ještě tak, aby činila tuto částku,*
+>
+> *- c) vdovského nebo vdoveckého důchodu nižší než 50 % částky stanovené podle § 33 odst. 2 věty třetí, zvýší se procentní výměra vdovského nebo vdoveckého důchodu ještě tak, aby činila 50 % této částky,*
+>
+> *- d) sirotčího důchodu nižší než 40 % částky stanovené podle § 33 odst. 2 věty třetí, zvýší se procentní výměra sirotčího důchodu ještě tak, aby činila 40 % této částky;*
+>
+> *vychází se přitom z nejnižších částek procentních výměr důchodů platných pro kalendářní rok, v němž se důchody zvyšují.*
+>
+> *(15) Zvýšení důchodů stanoví prováděcí právní předpis do 30. září kalendářního roku, který o jeden rok předchází kalendářnímu roku, do něhož spadá termín zvýšení důchodů.*
 
 **Výklad:**
 
@@ -1885,7 +2023,15 @@ Pokud procentní výměra po valorizaci klesla pod tyto hranice (např. při kom
 >
 > *(3) Procentní výměry vyplácených důchodů se zvyšují od splátky důchodu splatné v červenci kalendářního roku, pokud růst cen dosáhl v období stanoveném podle odstavce 2 aspoň 5 % nejpozději v únoru; je-li kalendářním měsícem, v němž růst cen dosáhl aspoň 5 %, březen až červen, zvyšují se procentní výměry vyplácených důchodů od splátky důchodu splatné v pátém kalendářním měsíci následujícím po tomto kalendářním měsíci.*
 >
-> *(4) Procentní výměry vyplácených důchodů se zvýší o tolik procent (...), aby u průměrného starobního důchodu toto zvýšení odpovídalo 30 % růstu cen. (...)*
+> *(4) Procentní výměry vyplácených důchodů se zvýší o tolik procent zaokrouhlených s přesností na jedno desetinné místo nahoru, aby u průměrného starobního důchodu toto zvýšení odpovídalo 30 % růstu cen. Průměrný starobní důchod se stanoví podle § 67 odst. 9.*
+>
+> *(5) Zvýšení procentní výměry důchodu se zaokrouhluje na celé koruny nahoru.*
+>
+> *(6) Zvýšení procentních výměr důchodů náleží i k důchodům přiznávaným v tom kalendářním roce, do něhož spadá kalendářní měsíc podle odstavce 3.*
+>
+> *(7) Procentní výměry starobních důchodů, na které vznikl nárok podle § 31, se podle odstavců 1 až 6 nezvyšují, pokud poživatel tohoto důchodu nedosáhl důchodového věku v období před 1. lednem kalendářního roku, v němž se vyplácené důchody zvyšují podle odstavců 1 až 6.*
+>
+> *(8) Zvýšení důchodů stanoví prováděcí právní předpis do 30 dnů od posledního dne kalendářního měsíce, v němž růst cen dosáhl aspoň 5 %.*
 
 **Výklad:**
 
@@ -2007,21 +2153,63 @@ Synchronizační pravidlo: pokud poživatel dosáhne 85 let **přesně v měsíc
 >
 > *- c) členem vlády Československé republiky, Československé socialistické republiky, České socialistické republiky nebo Slovenské socialistické republiky,*
 >
-> *(...)*
+> *- d) předsedou Národního shromáždění Československé republiky, Národního shromáždění Československé socialistické republiky, Federálního shromáždění Československé socialistické republiky, České národní rady nebo Slovenské národní rady,*
+>
+> *- e) předsedou nebo primátorem národních výborů, jde-li o zemské národní výbory, ústřední národní výbory, krajské národní výbory, Národní výbor hlavního města Prahy, okresní národní výbory, národní výbory měst Brno, Plzeň a Ostrava a obvodní národní výbory v krajských městech a v hlavním městě Praze,*
+>
+> *- f) předsedou Nejvyššího soudu Československé republiky, Nejvyššího soudu Československé socialistické republiky, Nejvyššího soudu České socialistické republiky nebo Nejvyššího soudu Slovenské socialistické republiky,*
+>
+> *- g) generálním prokurátorem Československé republiky, Československé socialistické republiky, České socialistické republiky nebo Slovenské socialistické republiky nebo hlavním vojenským prokurátorem,*
+>
+> *- h) plukovníkem nebo generálem působícím v Hlavní politické správě ministerstva národní obrany nebo federálního ministerstva národní obrany, politické správě vojenského okruhu, útvaru Vojenské kontrarozvědky jako složky Státní bezpečnosti nebo Zpravodajské správy Generálního štábu Československé lidové armády a jejích předchůdců,*
+>
+> *- i) plukovníkem nebo generálem zařazeným ve Sboru národní bezpečnosti, vojsku ministerstva vnitra, Pohraniční stráži nebo Sboru nápravné výchovy a předchůdcích těchto útvarů (složek),*
+>
+> *- j) členem Hlavního štábu Lidových milicí,*
+>
+> *- k) členem Ústřední kontrolní a revizní komise Komunistické strany Československa nebo Komunistické strany Slovenska,*
+>
+> *- l) pracovníkem zařazeným v oddělení státní administrativy Ústředního výboru Komunistické strany Československa nebo Ústředního výboru Komunistické strany Slovenska, s výjimkou pracovníků vykonávajících jen administrativní, technické nebo provozní práce,*
+>
+> *- m) vedoucím pracovníkem v oddělení Ústředního výboru Komunistické strany Československa nebo Ústředního výboru Komunistické strany Slovenska, s výjimkou oddělení, které provádělo jen podpůrné provozní činnosti,*
+>
+> *- n) vedoucím oddělení státní administrativy krajských, okresních nebo obvodních výborů Komunistické strany Československa nebo Komunistické strany Slovenska nebo vedoucím odboru v tomto oddělení,*
+>
+> *- o) ideologickým tajemníkem krajských, okresních nebo obvodních výborů Komunistické strany Československa nebo Komunistické strany Slovenska, církevním tajemníkem krajských, okresních nebo obvodních národních výborů a orgánů jim na roveň postavených, nebo vedoucím Státního úřadu pro věci církevní, církevního odboru Ministerstva školství a kultury, Sekretariátu pro věci církevní Ministerstva kultury nebo Sekretariátu vlády České socialistické republiky pro věci církevní,*
+>
+> *- p) vedoucím operativního útvaru Státní bezpečnosti nebo operativním pracovníkem útvaru Státní bezpečnosti určeného k boji proti vnitřnímu nepříteli,*
+>
+> *- q) náčelníkem krajských správ Sboru národní bezpečnosti, Správy Sboru národní bezpečnosti hlavního města Prahy a Středočeského kraje a Správy Sboru národní bezpečnosti hlavního města Bratislavy a Západoslovenského kraje, správ Státní bezpečnosti v krajských správách Sboru národní bezpečnosti, Správě Sboru národní bezpečnosti hlavního města Prahy a Středočeského kraje a Správě Sboru národní bezpečnosti hlavního města Bratislavy a Západoslovenského kraje a útvarů jim na roveň postavených a předchůdců těchto správ,*
+>
+> *- r) náčelníkem okresních správ Sboru národní bezpečnosti nebo náčelníkem oddělení Státní bezpečnosti okresních správ Sboru národní bezpečnosti a vysunutých pracovišť krajských správ Státní bezpečnosti v okresech a útvarů jim na roveň postavených,*
+>
+> *- s) náčelníkem nebo zástupcem náčelníka jednotlivých správ Sboru národní bezpečnosti a jejich předchůdců,*
+>
+> *- t) náčelníkem odboru jednotlivých správ Sboru národní bezpečnosti a správ Státní bezpečnosti v krajských správách Sboru národní bezpečnosti, Správě Sboru národní bezpečnosti hlavního města Prahy a Středočeského kraje a Správě Sboru národní bezpečnosti hlavního města Bratislavy a Západoslovenského kraje a jejich předchůdců,*
+>
+> *- u) náčelníkem odboru vyšetřování Státní bezpečnosti v krajských správách Sboru národní bezpečnosti, Správě Sboru národní bezpečnosti hlavního města Prahy a Středočeského kraje a Správě Sboru národní bezpečnosti hlavního města Bratislavy a Západoslovenského kraje a jejich předchůdců,*
+>
+> *- v) náčelníkem pohraniční brigády Pohraniční stráže, náčelníkem štábu brigády Pohraniční stráže, velitelem praporu Pohraniční stráže nebo zástupcem náčelníka nebo velitele pro věci politické brigády nebo praporu Pohraniční stráže,*
+>
+> *- w) velitelem nebo náčelníkem Velitelství Pohraniční stráže a Vnitřní stráže a Hlavní správy Pohraniční stráže ochrany státních hranic nebo zástupcem velitele nebo náčelníka pro věci politické, nebo*
 >
 > *- x) náčelníkem štábu Lidových milicí při krajských, okresních nebo obvodních výborech Komunistické strany Československa nebo Komunistické strany Slovenska,*
 >
-> *(dále jen „představitel").*
+> *(dále jen „představitel“).*
 >
 > *(2) Za představitele se nepovažuje osoba, která*
 >
 > *- a) byla účastna rehabilitace podle zákona č. 119/1990 Sb., o soudní rehabilitaci, ve znění pozdějších předpisů, nebo podle zákona č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění pozdějších předpisů,*
-> *- b) má nárok na příplatek k důchodu nebo na zvláštní příspěvek k důchodu podle zákona č. 357/2005 Sb. (...)*
-> *- c) je držitelem osvědčení o účasti na národním boji za osvobození (...)*
-> *- d) byla vojákem, který byl na základě dobrovolnosti reatestován (...)*
-> *- e) je držitelem osvědčení účastníka odboje a odporu proti komunismu podle zákona č. 262/2011 Sb.*
 >
-> *(3) Podmínkou snížení procentní výměry starobního důchodu představiteli je, že představitel byl zařazen do seznamu představitelů (...) a že Ústav pro studium totalitních režimů vydal podle zákona o organizaci a provádění sociálního zabezpečení potvrzení o funkci představitele a době výkonu funkce.*
+> *- b) má nárok na příplatek k důchodu nebo na zvláštní příspěvek k důchodu podle zákona č. 357/2005 Sb., o ocenění účastníků národního boje za vznik a osvobození Československa a některých pozůstalých po nich, o zvláštním příspěvku k důchodu některým osobám, o jednorázové peněžní částce některým účastníkům národního boje za osvobození v letech 1939 až 1945 a o změně některých zákonů, ve znění pozdějších předpisů, nebo na příplatek k důchodu podle nařízení vlády č. 622/2004 Sb., o poskytování příplatku k důchodu ke zmírnění některých křivd způsobených komunistickým režimem v oblasti sociální, ve znění pozdějších předpisů,*
+>
+> *- c) je držitelem osvědčení o účasti na národním boji za osvobození podle § 8 odst. 1 zákona č. 255/1946 Sb., o příslušnících československé armády v zahraničí a o některých jiných účastnících národního odboje za osvobození,*
+>
+> *- d) byla vojákem, který byl na základě dobrovolnosti reatestován a shledán způsobilým konat dále službu podle § 165 odst. 7 zákona č. 221/1999 Sb., o vojácích z povolání, nebo*
+>
+> *- e) je držitelem osvědčení účastníka odboje a odporu proti komunismu podle § 6 zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu.*
+>
+> *(3) Podmínkou snížení procentní výměry starobního důchodu představiteli je, že představitel byl zařazen do seznamu představitelů vypracovaného podle zákona o organizaci a provádění sociálního zabezpečení Ústavem pro studium totalitních režimů (dále jen „seznam představitelů“) a že Ústav pro studium totalitních režimů vydal podle zákona o organizaci a provádění sociálního zabezpečení potvrzení o funkci představitele a době výkonu funkce.*
 
 **Výklad:**
 
@@ -2069,13 +2257,13 @@ Tento mechanismus chrání před arbitrárním snižováním — postavení pře
 >
 > *(1) Byl-li starobní důchod přiznán představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. a) až j) ode dne, který spadá do období po 29. únoru 2024, a představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. k) až x) ode dne, který spadá do období po 31. říjnu 2026, procentní výměra starobního důchodu stanovená podle § 34 až 36 se sníží o 300 Kč za každý i započatý rok doby, po kterou pojištěnec byl představitelem. Rokem této doby se pro účely této hlavy rozumí 365 kalendářních dnů.*
 >
-> *(2) Vznikl-li po 29. únoru 2024 představiteli komunistického režimu (...) nárok na starobní důchod podle § 61a, sníží se procentní výměra tohoto starobního důchodu náležející podle § 61a odst. 2 obdobně podle odstavce 1.*
+> *(2) Vznikl-li po 29. únoru 2024 představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. a) až j) nebo po 31. říjnu 2026 představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. k) až x) nárok na starobní důchod podle § 61a, sníží se procentní výměra tohoto starobního důchodu náležející podle § 61a odst. 2 obdobně podle odstavce 1.*
 >
-> *(3) Podle odstavce 1 nebo 2 se nesnižují starobní důchody, jejichž procentní výměra nepřesahuje částku nejnižší procentní výměry stanovenou podle § 8 odst. 2 a odst. 3 písm. a) a d) zákona č. 262/2011 Sb. (...)*
+> *(3) Podle odstavce 1 nebo 2 se nesnižují starobní důchody, jejichž procentní výměra nepřesahuje částku nejnižší procentní výměry stanovenou podle § 8 odst. 2 a odst. 3 písm. a) a d) zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, platnou pro důchody přiznávané v roce, do něhož spadá den, od něhož se důchod přiznává podle odstavce 1 nebo náleží podle odstavce 2. Jde-li o důchod uvedený v odstavci 2, použije se částka stanovená podle § 8 odst. 3 písm. a) zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu. Pro účely stanovení částky podle věty první se nepřihlíží ke zvýšení vyplácených důchodů podle § 67a, pokud by k tomuto zvýšení došlo v kalendářním roce, do něhož spadá den, od něhož se starobní důchod přiznává nebo náleží.*
 >
 > *(4) Procentní výměra starobního důchodu po snížení podle odstavce 1 nebo 2 nesmí být nižší než částka uvedená v odstavci 3.*
 >
-> *(5) Přiznává-li se podle právních předpisů Evropské unie nebo podle mezinárodní smlouvy starobní důchod vypočtený podle poměru dob pojištění získaných v České republice k celkové získané době pojištění, sníží se podle odstavců 1 až 4 nejprve procentní výměra důchodu stanovená podle celkové získané doby pojištění a poté se takto snížená procentní výměra důchodu vynásobí koeficientem (...)*
+> *(5) Přiznává-li se podle právních předpisů Evropské unie nebo podle mezinárodní smlouvy starobní důchod vypočtený podle poměru dob pojištění získaných v České republice k celkové získané době pojištění, sníží se podle odstavců 1 až 4 nejprve procentní výměra důchodu stanovená podle celkové získané doby pojištění a poté se takto snížená procentní výměra důchodu vynásobí koeficientem stanoveným jako poměr dob získaných v České republice ke dni přiznání starobního důchodu k celkové získané době pojištění k témuž dni. Jde-li o starobní důchod podle odstavce 2, postupuje se obdobně podle § 67f odst. 7.*
 
 **Výklad:**
 
@@ -2116,7 +2304,19 @@ Pro dílčí důchod (§ 61) se nejprve snižuje **celá** procentní výměra d
 
 > **§ 67f**
 >
-> *(1) Byl-li starobní důchod přiznán představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. a) až j) ode dne, který spadá do období před 1. březnem 2024, sníží se procentní výměra starobního důchodu náležející ke dni 29. února 2024 o 300 Kč za každý i započatý rok doby, po kterou byl pojištěnec tímto představitelem. Byl-li starobní důchod přiznán představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. k) až x) ode dne, který spadá do období před 1. listopadem 2026, sníží se procentní výměra starobního důchodu náležející ke dni 31. října 2026 o 300 Kč za každý i započatý rok doby, po kterou byl pojištěnec tímto představitelem. (...)*
+> *(1) Byl-li starobní důchod přiznán představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. a) až j) ode dne, který spadá do období před 1. březnem 2024, sníží se procentní výměra starobního důchodu náležející ke dni 29. února 2024 o 300 Kč za každý i započatý rok doby, po kterou byl pojištěnec tímto představitelem. Byl-li starobní důchod přiznán představiteli komunistického režimu uvedenému v § 67d odst. 1 písm. k) až x) ode dne, který spadá do období před 1. listopadem 2026, sníží se procentní výměra starobního důchodu náležející ke dni 31. října 2026 o 300 Kč za každý i započatý rok doby, po kterou byl pojištěnec tímto představitelem. Pokud byla představiteli komunistického režimu, který vykonával též funkce uvedené v § 67d odst. 1 písm. k) až x), snížena procentní výměra starobního důchodu podle věty první, sníží se procentní výměra starobního důchodu podle věty druhé o částku stanovenou jako rozdíl mezi částkou, která odpovídá snížení procentní výměry za součet všech dob, po které byl pojištěnec představitelem, a částkou, o kterou byla procentní výměra starobního důchodu snížena před 1. listopadem 2026.*
+>
+> *(2) Podle odstavce 1 se nesnižují starobní důchody, které nepřesahují částku nejnižší procentní výměry stanovené podle § 8 odst. 2 a odst. 3 písm. a) a d) zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, platnou pro důchody přiznávané v roce, do něhož spadá den, od něhož se důchod snižuje podle odstavce 5. Nejde-li o důchod přiznaný podle § 31, použije se vždy částka stanovená podle § 8 odst. 3 písm. a) zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu.*
+>
+> *(3) Procentní výměra starobního důchodu po snížení podle odstavce 1 nesmí být nižší než částka nejnižší procentní výměry stanovená podle § 8 odst. 2 a odst. 3 písm. a) a d) zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, platná pro důchody přiznávané v tom roce, do něhož spadá splátka důchodu, od níž se důchod snižuje.*
+>
+> *(4) Pro účely postupu podle odstavců 2 a 3 se nepřihlíží ke zvýšení vyplácených důchodů podle § 67a, pokud by k tomuto zvýšení došlo v kalendářním roce, do něhož spadá den, od něhož se starobní důchod snižuje.*
+>
+> *(5) Byl-li seznam představitelů komunistického režimu uvedených v § 67d odst. 1 písm. a) až j) předán plátci důchodů do 31. srpna 2023, popřípadě byl-li doplněk tohoto seznamu předán plátci důchodů do 31. prosince 2023, provede se snížení od splátky důchodu splatné v březnu 2024; byl-li seznam představitelů komunistického režimu uvedených v § 67d odst. 1 písm. k) až x) předán plátci důchodů do 30. dubna 2026, popřípadě byl-li doplněk tohoto seznamu předán plátci důchodů do 31. srpna 2026, provede se snížení od splátky důchodu splatné v listopadu 2026. Byl-li doplněk seznamu představitelů komunistického režimu uvedených v § 67d odst. 1 písm. a) až j) předán plátci důchodů v období od 1. ledna 2024 do 31. prosince 2024 nebo byl-li doplněk seznamu představitelů komunistického režimu uvedených v § 67d odst. 1 písm. k) až x) předán plátci důchodů v období od 1. září 2026 do 31. srpna 2027, provede se snížení od splátky důchodu splatné ve třetím kalendářním měsíci následujícím po kalendářním měsíci, v němž byl doplněk předán plátci důchodů; přitom se vychází z výše procentní výměry důchodu náležející k poslednímu dni kalendářního měsíce, který bezprostředně předchází kalendářní měsíc, od něhož se snížení provádí.*
+>
+> *(6) Je-li starobní důchod, který se snižuje podle odstavce 1, vyplácen v souběhu s vdovským nebo vdoveckým důchodem, stanoví se snížení z té částky procentní výměry starobního důchodu, která by náležela ke dni, od něhož se snížení provádí, bez úpravy výše starobního důchodu pro tento souběh a poté se výše důchodů upraví podle § 59 vzhledem k nové výši procentní výměry starobního důchodu.*
+>
+> *(7) Vyplácí-li se podle právních předpisů Evropské unie nebo podle mezinárodní smlouvy starobní důchod vypočtený podle poměru dob pojištění získaných v České republice k celkové získané době pojištění, vynásobí se pro účely snížení procentní výměry částka 300 Kč koeficientem stanoveným jako poměr dob pojištění získaných v České republice ke dni přiznání starobního důchodu k celkové získané době pojištění k témuž dni.*
 
 **Výklad:**
 
