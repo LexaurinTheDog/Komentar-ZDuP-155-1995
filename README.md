@@ -27,6 +27,10 @@ Komentář byl sestaven AI asistentem (Claude) **výhradně z lokálních materi
 
 Důchodové pojištění se v ČR rychle vyvíjí (reforma 2024). Pro praktickou aplikaci ověřte aktuální znění zákona a parametrů.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
