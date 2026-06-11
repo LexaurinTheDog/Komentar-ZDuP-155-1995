@@ -159,6 +159,13 @@ Stejné pravidlo se opakuje při výpočtu výše důchodu v § 34 odst. 2 (toto
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 47/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-47-23_1) — nález, 4. 6. 2025
+  > „Účelem předčasných důchodů je primárně poskytnout dávky osobám, které v předdůchodovém věku ztratí zaměstnání a je pro ně obtížné je znovu nalézt … základním účelem předčasných důchodů je kompenzovat snížení schopnosti vykonávat soustavnou výdělečnou činnost a s tím související ztíženou možnost nalézt zaměstnání. … Předčasný důchod tedy není standardním a očekávatelným prodloužením doby řádného starobního důchodu"
+- *ÚS* [I.ÚS 365/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-365-05_1) — nález, 6. 3. 2008
+  > „V případě, že občan splnil podmínku minimálního počtu let pojištění požadovanou § 31 odst. 1 zákona č. 155/1995 Sb. ještě v době existence společného československého státu, "aplikace mezinárodní smlouvy na základě § 61 téhož zákona nemůže vést k tomu, že je mu zpětně splnění této podmínky upíráno. Odporuje to principu právní jistoty a předvídatelnosti práva, který tvoří samotný základ konceptu právního státu"
+
 #### Reforma 2023/2024 — zpřísnění předčasného důchodu
 
 § 31 v konsolidovaném znění **podstatně zpřísnil** podmínky pro předčasný starobní důchod oproti právní úpravě platné do konce roku 2023. Změny zavedené **zákonem č. 270/2023 Sb.** (s účinností od 1. října 2023, resp. 1. ledna 2024) jsou trojí:
@@ -213,6 +220,15 @@ Existuje však jedna důležitá kompenzace: § 36 odst. 3 umožňuje **přepoč
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 53/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-53-04_1) — nález, 16. 10. 2007
+  > „Ústavní soud posuzoval dále zvýhodňující přístup, který byl založen na objektivních a rozumných důvodech. Přihlédl k důvodům historickým a sociologickým i ke komparatistice. … shledal, že napadené ustanovení vychází z existence legitimního cíle. … řešení nerovného postavení mužů a žen v rámci důchodového pojištění nelze nalézt bez komplexní a moudře načasované úpravy systému celého důchodového pojištění, při nalezení sociálně únosných a ekonomicky přijatelných hledisek"
+- *NSS* [19 Ad 25/2023 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720370) — 31. 1. 2024
+  > „zohlednění péče ve větším rozsahu pro účely uznání a zápočtu výchovy nemá zhola nic společného s hmotným zajištěním dítěte (rodiny), tzn. není tu rovnítko mezi výchovou v duchu dotčené právní úpravy a získáváním finančních prostředků – výdělečnou činností (srov. § 34a odst. 3 a § 32 odst. 4 zákona č. 155/1995 Sb., o důchodovém pojištění, v rozhodném znění) … Zákonodárcem přiznaná zásluha se pak týká jednoznačně toho z pojištěnců, na kterém (převážně) spočívala vlastní výchova…"
+- *NSS* [3 Ads 70/2008 - 122](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/613203) — 23. 10. 2008
+  > „podmínka výchovy dítěte ve smyslu § 32 zákona č. 155/1995 Sb. může mít vliv pouze na určení důchodového věku stěžovatelky, nikoli na výpočet procentní výměry důchodu…"
+
 #### Generační rozčlenění úpravy (odst. 1–3)
 
 § 32 stanoví důchodový věk **podle tří generačních kohort**:
@@ -265,6 +281,11 @@ Odst. 4 podrobně vymezuje, **kdy je splněna podmínka výchovy dítěte** pro 
 > *(2) Výše procentní výměry starobního důchodu se stanoví procentní sazbou z výpočtového základu podle doby pojištění získané do vzniku nároku na tento důchod a podle doby pojištění získané po vzniku nároku na tento důchod. Do doby pojištění získané do 18 let věku a po vzniku nároku na starobní důchod se nezahrnují náhradní doby pojištění. Procentní výměra starobního důchodu včetně zvýšení podle § 34a činí nejméně částku ve výši základní výměry starobního důchodu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 386/2020 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/703085) — 10. 8. 2022
+  > „Do výpočtu teoretické dávky přitom musí být zahrnuta i základní výměra starobního důchodu, přestože není závislá na délce doby pojištění a nebude ovlivněna započítáním všech dob pojištění. … Nejvyšší správní soud uzavírá, že při výpočtu dílčího důchodu se dílčí (poměrně krátí) i základní výměra starobního důchodu"
 
 #### Dualistická konstrukce důchodu (odst. 1 a 2)
 
@@ -354,6 +375,13 @@ Funkčně jde o **stop-loss klauzuli**: žádný řádně přiznaný starobní d
 > *(9) Pokud pojištěnec vykonával po vzniku nároku na starobní důchod výdělečnou činnost a procentní výměra starobního důchodu se zvyšuje podle odstavců 3 až 6, zvyšuje se podle odstavců 3 až 6 procentní výměra před úpravou podle § 33 odst. 2 věty třetí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ad 37/2015 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/521842) — 13. 4. 2017
+  > „právní úprava navýšení výpočtového základu podle § 34 odst. 4 zákona č. 155/1995 Sb., o důchodovém pojištění, není v rozporu s principem rovnosti podle článku 3 Listiny základních práv a svobod, ani v rozporu s právem na přiměřené hmotné zabezpečení ve stáří podle článku 30 odst. 1 Listiny základních práv a svobod.“ … stávající důchodový systém je založen více na principu solidarity, než na principu zásluhovosti"
+- *NSS* [4 Ads 71/2011 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/622219) — 19. 8. 2011
+  > „považovala-li Česká správa sociálního zabezpečení ve dříve vydaném pravomocném rozhodnutí dobu od neplatného skončení pracovního poměru do jeho skončení dohodou pro účely posouzení povinnosti vrátit přeplatek na starobním důchodu za dobu výdělečné činnosti, byť žalobkyně fakticky žádnou činnost nevykonávala, pak je povinna tutéž dobu hodnotit jako dobu výdělečné činnosti i pro účely zvyšování důchodu podle § 34 odst. 2 zákona č. 155/1995 Sb., o důchodovém pojištění"
 
 #### Postupné snižování sazby — jádro reformy 2024 (odst. 1)
 
@@ -606,6 +634,11 @@ Pro vznik nároku musí být splněny **dvě kumulativní podmínky**:
 
 > **Praktický význam expoziční výjimky.** „Nejvyšší přípustná expozice" je technický pojem ochrany zdraví při práci, který znamená, že pojištěnec dosáhl maximálního přípustného dávkového ekvivalentu (např. radiační expozice). V takovém případě musí být zákonem chráněn před dalším vystavením a snižuje se mu počet potřebných směn — uznává se, že již dál pracovat „nemohl".
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ads 198/2018 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/649083) — 17. 1. 2019
+  > „Jedná se o zvláštní úpravu starobního důchodu pojištěnců, kteří před 1. 10. 2016 začali vykonávat zaměstnání v hornictví se stálým pracovištěm pod zemí v hlubinných dolech a v zaměstnání v hlubinném hornictví odpracovali stanovený počet směn. Obecný důchodový věk stanovený podle § 32 zákona o důchodovém pojištění se u těchto pojištěnců snižuje o sedm let a zavádí se specifický výpočet procentní výměry jejich starobního důchodu"
+
 #### Pojem „směna v hornictví" (odst. 2)
 
 Odst. 2 definuje **směnu** dvojakým způsobem:
@@ -628,6 +661,11 @@ Koeficient 0,6 zohledňuje skutečnost, že **počet kalendářních dnů** v hi
 > *(2) Procentní výměra starobního důchodu pojištěnce, jehož důchodový věk je stanoven podle odstavce 1, se zvyšuje ode dne přiznání tohoto důchodu podle předpisů o zvýšení důchodů, které nabyly účinnosti v období od 1. ledna 1996 do dne, který předchází dni, od něhož se přiznává tento důchod. Zvýšení podle věty první však spolu s procentní výměrou důchodu nesmí přesáhnout nejvyšší výměru, která se stanoví tak, že nejvyšší částka výše důchodu podle § 4 odst. 1 věty druhé zákona č. 76/1995 Sb., o zvýšení vyplácených důchodů a důchodů přiznávaných v roce 1995, se zvýší podle předpisů o zvýšení důchodů, které nabyly účinnosti v období od 1. ledna 1996 do dne, který předchází dni, od něhož se přiznává starobní důchod. Zvýšení podle věty první a druhé se stanoví tak, jako kdyby starobní důchod byl přiznán ke dni 31. prosince 1995.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ads 198/2018 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/649083) — 17. 1. 2019
+  > „Nárok na starobní důchod se stěžovatel snaží dovodit zpětně na základě později účinné právní úpravy v § 37b a § 37c, která od 1. 10. 2016 snížila důchodový věk osob pracujících v hornictví. … nestanoví-li novelizující zákon výslovně jinak, nárok na starobní důchod stěžovateli mohl vzniknout pouze do budoucna, nejdříve tedy od účinnosti novely dne 1. 10. 2016"
 
 #### Snížení o 7 let (odst. 1)
 
@@ -724,6 +762,13 @@ Tato úprava výrazně méně benevolentní než pro horníky (max. 5 let proti 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Ad 20/2019 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/676067) — 4. 11. 2021
+  > „pokud se nejedná o invaliditu vzniklou následkem pracovního úrazu, musí osoba mladší 65 let (ve smyslu ust. § 38 písm. a) zákona č. 155/1995 Sb.) kromě podmínky invalidity splňovat i podmínku získání potřebné doby pojištění; obě tyto podmínky přitom musí být splněny kumulativně, jinak příslušný nárok nevzniká. Zákon je v tomto směru formulován zcela jednoznačně a nepřipouští jinou možnost výkladu"
+- *NSS* [32 Ad 17/2024 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743286) — 21. 5. 2025
+  > „Pro vznik nároku na invalidní důchod pro invaliditu III. stupně podle § 38 a § 39 odst. 2 písm. c) zákona č. 155/1995 Sb., o důchodovém pojištění, nestačí, aby byla splněna pouze zdravotní podmínka, tedy pokles pracovní schopnosti o 70 %, ale musí být splněna rovněž podmínka získání potřebné doby pojištění ve smyslu § 40 citovaného zákona. Není-li splněna zákonná podmínka potřebné doby pojištění, pak žalobci nevznikl nárok na invalidní důchod, a to i přes zjištěnou invaliditu"
+
 #### Tři kumulativní podmínky vzniku nároku
 
 § 38 stanoví **tři kumulativní podmínky** vzniku nároku na invalidní důchod:
@@ -785,6 +830,11 @@ Pojem **pracovní úraz** je definován v § 271k zákoníku práce. Vztahuje se
 > *(8) Procentní míra poklesu pracovní schopnosti se určuje v celých číslech.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 141/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-141-10_1) — usnesení, 10. 8. 2010
+  > „Takovéto zhodnocení zda, respektive do jaké míry, je dotyčná osoba práce schopna či neschopna, přísluší výhradně posudkovému lékaři, je svého druhu rozhodnutím a nepochybně představuje zcela určující a stěžejní podklad mimo jiné pro vydání správního rozhodnutí o přiznání invalidního důchodu (viz § 39 zákona č. 155/1995 Sb. o důchodovém pojištění)"
 
 #### Třístupňový systém invalidity (odst. 1 a 2) — reforma 2010
 
@@ -1015,6 +1065,11 @@ V opačném případě se dopočtená doba **krátí v poměru** délky doby poj
 > *(4) Pojištěnci, který ke dni vzniku nároku na invalidní důchod získal aspoň 15 roků doby pojištění uvedené v § 11 a § 13 odst. 1, náleží procentní výměra invalidního důchodu nejméně ve výši stanovené podle odstavce 2, jde-li o invalidní důchod pro invaliditu třetího stupně, nejméně ve výši poloviny částky stanovené podle odstavce 2, jde-li o invalidní důchod pro invaliditu druhého stupně, a nejméně ve výši třetiny částky stanovené podle odstavce 2, jde-li o invalidní důchod pro invaliditu prvního stupně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ads 525/2021 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705242) — 2. 11. 2022
+  > „získání invalidního důchodu podle § 42 odst. 1 zákona o důchodovém pojištění vylučuje získání řádného invalidního důchodu podle téhož zákona. Tento důsledek se pak na základě čl. 5 nařízení č. 883/2004 přenáší i na situaci, kdy žadatelka o řádný invalidní důchod již získala a pobírala invalidní důchod z mládí z jiného členského státu EU"
 
 #### „Invalidita z mládí" — speciální titul (odst. 1)
 
@@ -1345,6 +1400,11 @@ Toto pravidlo je významné pro **studenty, kteří přerušili studium** (např
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Ads 411/2018 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/651272) — 18. 7. 2019
+  > „Zákon o důchodovém pojištění však důsledně rozlišuje pojmy nárok na důchod a nárok na výplatu důchodu. Toto rozlišení nemá jen teoretický význam, ale má rovněž praktické důsledky, jelikož se uvedené nároky nemusí časově shodovat. … Bez podání žádosti nemůže být dávka vyplacena, i když nárok na ni vznikl"
+
 #### Dualismus nárok vs. výplata (odst. 1 a 2)
 
 § 54 zakotvuje fundamentální **dualismus** mezi **nárokem na důchod** (právní existence dávky) a **nárokem na výplatu** (faktické vyplácení):
@@ -1384,6 +1444,11 @@ Princip „nahoru" znamená **per favorem pojištěnce** — vždy ve prospěch 
 > *(2) Nárok na výplatu důchodu nebo jeho části zaniká, není-li dále uvedeno jinak, uplynutím pěti let ode dne, za který důchod nebo jeho část náleží. Lhůta podle předchozí věty neplyne po dobu řízení o důchodu, po dobu řízení o prohlášení osoby za nezvěstnou anebo za mrtvou, jde-li o nárok na výplatu vdovského, vdoveckého nebo sirotčího důchodu po této osobě, a po dobu, po kterou osobě, která musela mít opatrovníka, nebyl opatrovník ustanoven. Lhůta podle věty první neplyne rovněž po dobu, po kterou trvalo řízení o neplatnosti skončení právního vztahu zakládajícího účast na pojištění (§ 11 odst. 2 věta třetí).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Ads 111/2010 - 130](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/621401) — 28. 4. 2011
+  > „nárok na důchod nezaniká uplynutím času (nedochází ani k prekluzi ani k promlčení). To znamená, že jakmile se splnily podmínky nároku na důchod, nemůže tento nárok zaniknout jen proto, že oprávněný o důchod nepožádal. Nárok na důchod trvá po dobu, po kterou jsou splněny stanovené podmínky nároku, zaniká dnem, kdy některá z těchto podmínek zanikla"
 
 #### Imprescriptibilita nároku (odst. 1) vs. promlčitelnost výplaty (odst. 2)
 
@@ -1443,6 +1508,13 @@ Promlčecí lhůta **neplyne** v následujících případech:
 > *(6) Po zjištění výše vyměřovacího základu pro pojistné u osob samostatně výdělečně činných podle skutečného příjmu ze samostatné výdělečné činnosti podle § 11 odst. 3 se výše důchodu přepočte se zřetelem k výši tohoto vyměřovacího základu, a to ode dne přiznání důchodu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Ads 23/2013 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/628766) — 19. 8. 2013
+  > „podle ustálené soudní judikatury ustanovení § 56 odst. 1 písm. b) zákona č. 155/1995 Sb. umožňuje opětovné přezkoumání nároku na dávku důchodového pojištění i přesto, že o tomto nároku již bylo v minulosti pravomocně rozhodnuto. Toto ustanovení limituje použití překážky věci rozhodnuté ve věcech důchodového pojištění"
+- *NSS* [5 Ads 138/2014 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/634176) — 26. 3. 2015
+  > „Vzhledem k tomu, že i po skončeném řízení existuje časově neomezená možnost jak správního orgánu, tak i účastníka řízení vyvolat řízení o změně dávky důchodového pojištění, a to i k horšímu podle § 56 zákona č. 155/1995 Sb., o důchodovém pojištění, nelze během námitkového řízení rigidně trvat na principu omezené apelace ve smyslu správního řádu"
 
 #### Pětičlenný katalog změn
 
@@ -1513,6 +1585,11 @@ Tato úprava je výsledkem kompromisu: na jedné straně chrání důchodce pře
 > *(3) Jsou-li současně splněny podmínky nároku na výplatu starobního důchodu, na který vznikl nárok podle § 29, a starobního důchodu, na který vznikl nárok podle § 61a odst. 1 a který nebyl zvýšen podle § 61a odst. 2 věty druhé, a pojištěnec ve lhůtě uvedené v § 61a odst. 2 větě třetí požádal o přiznání starobního důchodu, na který vznikl nárok podle § 29, a zároveň o zvýšení za vychované dítě podle § 34a, přičte se pro účely posouzení výše těchto důchodů zvýšení za vychované dítě k procentní výměře obou těchto důchodů. Je-li starobní důchod, na který vznikl nárok podle § 61a odst. 1, s přičtením zvýšení za vychované dítě podle věty první vyšší, náleží tento důchod ode dne souběhu v takto upravené výši; tím není dotčeno právo pojištěnce požádat o zvýšení za vychované dítě podle § 61a odst. 2 věty druhé za období ode dne vzniku nároku na tento důchod do dne tohoto souběhu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1639-15_1) — usnesení, 21. 7. 2015
+  > „Proto její žádost o starobní důchod byla s ohledem na kogentní pravidlo priority vyššího důchodu při jejich souběhu ve smyslu § 58 zákona č. 155/1995 Sb. zamítnuta. Ovšem poté, co byl přehodnocen zdravotní stav stěžovatelky a byl jí snížen invalidní důchod, bude stěžovatelce nově vyplácen, požádá-li o to (opět s ohledem na pravidlo zakotvené v citovaném § 58) důchod starobní, neboť ten je v případě stěžovatelky vyšší než invalidní důchod pro invaliditu prvního stupně"
 
 #### Princip „vyšší + zánik nižšího" (odst. 1)
 
@@ -1623,6 +1700,15 @@ Smyslem je **chránit „odměnové" složky** starobního důchodu před kráce
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 252/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-252-04) — nález, 25. 1. 2005
+  > „V případě, v němž speciální inkorporační norma obsažená v § 61 zákona č. 155/1995 Sb. zakládá přednost mezinárodní smlouvy před vnitrostátním právem, kdy je aplikace práva tudíž ovládána výkladovým pravidlem lex specialis derogat legi generali, … musí uvedený výkladový princip o přednosti speciální před obecnou úpravou ustoupit principu ústavnímu, dopadajícímu na aplikaci a interpretaci relevantního jednoduchého práva, a to principu jeho ústavně konformní interpretace a aplikace"
+- *ÚS* [III.ÚS 939/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-939-10_1) — nález, 3. 8. 2010
+  > „Připouští-li pro posouzení rozhodované věci relevantní jednoduché právo (§ 61 zákona č. 155/1995 Sb., čl. 20 Smlouvy a čl. 15 odst. 1 Správního ujednání) dvě alternativní interpretace, dle maximy priority ústavně konformní interpretace jednoduchého práva bylo povinností obecných soudů zvolit ve smyslu ustálené a rozsáhlé judikatury Ústavního soudu tu z nich, již je nutno považovat za ústavně souladnou"
+- *NSS* [3 Ads 45/2003 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/235908) — 13. 4. 2004
+  > „do novelizace čl. 10 Ústavy České republiky ústavním zákonem č. 395/2001 Sb., dovozuje Nejvyšší správní soud přednostní použití mezinárodní smlouvy z odkazu provedeného v § 61 zákona č. 155/1995 Sb., o důchodovém pojištění, jenž upravuje postup pro případ výplaty tzv. dílčích důchodů, tedy důchodů vypočtených se zřetelem k mezinárodní smlouvě . Mezinárodní smlouva se tak vzhledem k zákonu, který na ni odkázal, dostává do postavení lex specialis"
+
 #### Dílčí důchod — pojem a výpočet (odst. 1)
 
 **Dílčí důchod** je důchod vypočtený se zřetelem k mezinárodní smlouvě podle **poměru dob získaných v ČR k celkové získané době**. Vyskytuje se typicky u pojištěnců, kteří pracovali v různých státech (a tedy získali doby pojištění v různých systémech).
@@ -1663,8 +1749,10 @@ Speciální pravidlo: souběh dílčího + jiného (nedílčího) českého důc
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 4066/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A338CBB77FC659AC1258240002B91E0?openDocument) — 28. 11. 2017, kat. A
+- *NS* [25 Cdo 4066/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A338CBB77FC659AC1258240002B91E0?openDocument) — kat. A, 28. 11. 2017
   > „Nárok na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti zaniká invalidnímu důchodci dnem, kdy mu ze zákona vznikl nárok na výplatu starobního důchodu"
+- *NSS* [175 Ad 10/2025 - 25](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769051) — 5. 1. 2026
+  > „v případě transformovaného starobního důchodu přiznaného podle § 61a odst. 1 zákona č. 155/1995 Sb., o důchodovém pojištění, se neuplatní § 34 odst. 4 citovaného zákona upravující zvýšení procentní výměry důchodu, neboť toto ustanovení se vztahuje pouze na starobní důchod, na který pojištěnci vznikl nárok podle § 29 odst. 1 nebo 3 téhož zákona"
 
 #### Automatická přeměna (odst. 1)
 
@@ -1759,6 +1847,11 @@ Odst. 3 odkazuje na zákon o výkonu soudních rozhodnutí (§ 276–296 OSŘ). 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ads 64/2008 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/612198) — 2. 7. 2008
+  > „§ 63 odst. 1 zákona č. 155/1995 Sb. v sobě spojuje obě zmíněné roviny, tedy jak rovinu procesněprávní („vstupují do dalšího řízení o dávce“), tak i hmotněprávní („nabývají nároku na částky“). … lze podle § 63 odst. 1 zákona č. 155/1995 Sb. postupovat jak v případech, kdy k úmrtí oprávněného došlo v průběhu řízení správního, tak i v případech, kdy oprávněný zemřel v průběhu přezkumného řízení soudního"
+
 #### Speciální přechod nárok mimo dědictví (odst. 1 až 3)
 
 § 63 zakotvuje **sui generis přechod nezískaných důchodových částek** mimo občanskoprávní dědictví. Pravidla:
@@ -1806,6 +1899,13 @@ Není-li manžela ani dětí, nárok **přechází standardním dědictvím** po
 > *(10) Plátce důchodu, který vyplácí důchod osobě uvedené v § 66 odst. 2 poukazem na účet u banky v zahraničí, hradí úplatu za tuto výplatu důchodu svému poskytovateli platebních služeb; úplatu bance příjemce důchodu hradí příjemce důchodu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ads 58/2014 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/631164) — 3. 4. 2014
+  > „Zákonodárce stanovil legitimní pořadí kategorií osob povinných k vypořádání přeplatku na důchodové dávce již zemřelého oprávněného. … Podle zdejšího soudu je nepochybné, že v obvyklých případech § 64 odst. 5 minimalizuje počet soudních sporů a slouží k rychlému a efektivnímu uspořádání věcí. O protiústavnosti takto nastavené normy proto nelze vůbec hovořit"
+- *NSS* [2 Ad 8/2014 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/464456) — 29. 1. 2018
+  > „Aby nedocházelo k nehospodárnému nakládání s finančními prostředky státu, když byla právní odpovědnost na vrácení neoprávněně vyplaceného důchodu dlouhodobě původně uzákoněna jen při výplatě důchodu na účet manžela, byla provedena rozsáhlá a zásadní novela § 64 zákona č. 155/1995 Sb., jíž byl rozšířen okruh osob zodpovídajících za vznik přeplatku na důchodu po úmrtí důchodce při výplatě důchodu na účet o disponenty, manžela či manželku se vznikem nároku na pozůstalostní důchod, dále děti či rodiče žijící v jedné domácnosti"
 
 #### Příjemce důchodu (odst. 1)
 
@@ -1951,6 +2051,11 @@ Logika: pojištěnec, který pracoval (a tedy získal dobu pojištění) i v zah
 > *(15) Zvýšení důchodů stanoví prováděcí právní předpis do 30. září kalendářního roku, který o jeden rok předchází kalendářnímu roku, do něhož spadá termín zvýšení důchodů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Ads 121/2015 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/636313) — 22. 10. 2015
+  > „Nejvyšší správní soud tedy dospěl k závěru, že k nerovnosti mezi důchodci s různým termínem výplaty důchodu (různým termínem faktického promítnutí valorizace) ve skutečnosti nemůže dojít. Ústavní principy rovnosti a zákazu diskriminace v takovém případě nejsou zákonnou úpravou dle § 67 odst. 2 zákona č. 155/1995 Sb. nijak dotčeny nebo zpochybněny"
 
 #### Termín valorizace (odst. 1 a 2)
 
@@ -2217,6 +2322,11 @@ Synchronizační pravidlo: pokud poživatel dosáhne 85 let **přesně v měsíc
 > *(3) Podmínkou snížení procentní výměry starobního důchodu představiteli je, že představitel byl zařazen do seznamu představitelů vypracovaného podle zákona o organizaci a provádění sociálního zabezpečení Ústavem pro studium totalitních režimů (dále jen „seznam představitelů“) a že Ústav pro studium totalitních režimů vydal podle zákona o organizaci a provádění sociálního zabezpečení potvrzení o funkci představitele a době výkonu funkce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [55 Ad 8/2024 - 73](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747057) — 30. 10. 2025
+  > „Za zvolené kritérium rozlišování tak lze označit výkon určité (dostatečně vysoké) funkce v rámci mocenského aparátu komunistického režimu, což nelze považovat za hledisko rozlišování, které by bylo jakkoliv podezřelé. Právě naopak, pokud Česká republika jako demokratický právní stát již v minulosti deklarovala, že komunistický režim považuje za protiprávní, zločinný, nelegitimní a zavrženíhodný …, považuje Nejvyšší správní soud skutečnost, že se některé osoby na udržování tohoto režimu v zásadní míře podílely, za legitimní rozlišovací znak"
 
 #### Časové vymezení (odst. 1) — kontext
 
