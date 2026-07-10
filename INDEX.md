@@ -57,3 +57,7 @@ Aktuální znění k **1. 1. 2026** (e-Sbírka `SB-1995-00155_2026-01-01`, dokum
 | 2016 | Zrušení II. pilíře | Návrat na čistý I. pilíř |
 | 2023 | 71/2023 Sb. | Výjimečná valorizace (omezení) |
 | 2024 | 270/2023 Sb. | Sazba 1,5 → 1,45 %, věk 67 let, zpřísnění předčasného důchodu, valorizace 1/3 reálných mezd |
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
